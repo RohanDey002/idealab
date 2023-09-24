@@ -1,6 +1,6 @@
-<?php require './components/head.php' ?>
+<?php $page = 'gallery'; require './components/head.php' ?>
   
-  <title>UpConstruction Bootstrap Template - Project Details</title>
+  <title>Project Details</title>
   
 </head>
 
