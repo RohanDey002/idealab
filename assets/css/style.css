@@ -1,0 +1,25 @@
+.text-change{
+    font-size: 30px;
+    color: rgb(217, 208, 84);
+    text-align: left;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5); 
+    
+    
+    
+}
+.header_text_change{
+    /* font-size: 30px;
+    color:rgb(173, 163, 10) ;
+     */
+     font-weight: normal;
+}
+#welcome-msg1{
+    color: rgb(15, 222, 15);
+}
+#welcome-msg2{
+    color:yellow;
+}
+#welcome-msg3{
+    color: red;
+}
