@@ -282,14 +282,11 @@
     <!-- ======= Our Projects Section ======= -->
     <section id="projects" class="projects">
       <div class="container" data-aos="fade-up">
-
         <div class="section-header">
           <h2>What our Students have done</h2>
           <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto accusamus fugit aut qui distinctio</p>
         </div>
-
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
-
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-it">IT</li>
@@ -297,9 +294,7 @@
             <li data-filter=".filter-agriculture">Agriculture</li>
             <li data-filter=".filter-scince">Scince</li>
           </ul><!-- End Projects Filters -->
-
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
             <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/it_img1" class="img-fluid" alt="">
@@ -311,7 +306,7 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-
+            
             <div class="col-lg-4 col-md-6 portfolio-item filter-mechanical">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img8.webp" class="img-fluid" alt="">
