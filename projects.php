@@ -162,11 +162,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-agriculture">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/agriculture_img3" class="img-fluid" alt="">
+                <img src="./image/project/agriculture_img3.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>agriculture 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/agriculture_img3" title="agriculture 2" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/project/agriculture_img3.webp" title="agriculture 2" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -174,11 +174,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-scince">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/science_img3.webp" class="img-fluid" alt="">
+                <img src="./image/project/science_img3.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>scince 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/science_img3.webp" title="agriculture 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/project/science_img3.webp" title="agriculture 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
