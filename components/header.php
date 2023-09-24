@@ -10,11 +10,11 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index.php" class="active">Home</a></li>
-          <li><a href="about.php">About Us</a></li>
-          <li><a href="projects.php">Project Gallery</a></li>
-          <li><a href="#">Patient Projects</a></li>
-          <li><a href="contact.php">Contact Us</a></li>
+          <li><a href="index.php" <?php if($page == 'home') echo 'class="active"'?>>Home</a></li>
+          <li><a href="about.php" <?php if($page == 'about') echo 'class="active"'?>>About Us</a></li>
+          <li><a href="projects.php" <?php if($page == 'gallery') echo 'class="active"'?>>Project Gallery</a></li>
+          <li><a href="#" <?php if($page == 'patient') echo 'class="active"'?>>Patient Projects</a></li>
+          <li><a href="contact.php" <?php if($page == 'contact') echo 'class="active"'?>>Contact Us</a></li>
         </ul>
       </nav><!-- .navbar -->
 
