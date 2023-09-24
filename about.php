@@ -1,5 +1,5 @@
 <?php $page='about'; require './components/head.php' ?>
-  <title>UpConstruction Bootstrap Template - About</title>
+  <title> About Us</title>
 </head>
 
 <body>
@@ -9,7 +9,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./image/about.webp');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>About</h2>
