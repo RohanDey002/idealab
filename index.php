@@ -77,174 +77,13 @@
 
       </div>
     </section>
-    <!-- ======= Get Started Section ======= -->
+     
     <section id="features" class="features section-bg">
       <div class="container" data-aos="fade-up">
       <div class="section-header">
           <h2>Our Approach</h2>
           <p>We passionately pursue a diverse range of innovative projects and ideas, driven by our commitment to making a meaningful impact.</p>
         </div>
-
-        <div class="row gy-4">
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/IoT.webp);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                    <h4 class="card-title">"Home Automation and IoT Integration"</h4>
-                    <p> Create a home automation system that allows users to control
-                       and monitor various household devices using IoT technologies and a mobile app.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/civil.webp);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                    <h4 class="card-title">"Sustainable Urban Planning"</h4>
-                    <p>Develop a sustainable urban development plan that focuses on optimizing land use, transportation 
-                      systems, green spaces, and energy-efficient buildings to create a more livable and eco-friendly city.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/electronics.webp);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                    <h4 class="card-title">"Radar-Based Object Detection and Tracking"</h4>
-                    <p>Build a radar system for detecting and tracking
-                       moving objects, such as vehicles or drones, and use this technology for applications like traffic management or surveillance.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="card-item">
-              <div class="row">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/mechanical.webp);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body">
-                    <h4 class="card-title">"Solar-Powered Portable Water Purification System"</h4>
-                    <p>An innovative solution harnessing solar energy to purify water from any source, 
-                      ensuring access to safe and clean drinking water in remote or disaster-stricken areas</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Card Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Constructions Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
-          <h2>Patient projects</h2>
-          <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos quam</p>
-        </div>
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item  position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-mountain-city"></i>
-              </div>
-              <h3>Nesciunt Mete</h3>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-              </div>
-              <h3>Eosle Commodi</h3>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-compass-drafting"></i>
-              </div>
-              <h3>Ledo Markt</h3>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-trowel-bricks"></i>
-              </div>
-              <h3>Asperiores Commodit</h3>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-helmet-safety"></i>
-              </div>
-              <h3>Velit Doloremque</h3>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-              </div>
-              <h3>Dolori Architecto</h3>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-            </div>
-          </div><!-- End Service Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-    <!-- ======= Features Section ======= -->
-    <section id="features" class="features section-bg">
-      <div class="container" data-aos="fade-up">
-
         <ul class="nav nav-tabs row  g-2 d-flex">
 
           <li class="nav-item col-3">
@@ -364,10 +203,11 @@
       </div>
     </section><!-- End Features Section -->
     <!-- ======= mechanicals Section ======= -->
-    <section id="mechanicals" class="mechanicals">
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-header">
+    <!-- ======= Get Started Section ======= -->
+    <section id="features" class="features section-bg">
+      <div class="container" data-aos="fade-up">
+      <div class="section-header">
           <h2>We are working on</h2>
           <p>We passionately pursue a diverse range of innovative projects and ideas, driven by our commitment to making a meaningful impact.</p>
         </div>
@@ -378,12 +218,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/cse.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/IoT.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Solutions through Lines of Code"</h4>
-                    <p> Encapsulates our commitment to harnessing the power of programming to craft practical and innovative solutions. We transform complex challenges into elegant, efficient, and effective software, driving progress one line of code at a time.</p>
+                    <h4 class="card-title">"Home Automation and IoT Integration"</h4>
+                    <p> Create a home automation system that allows users to control
+                       and monitor various household devices using IoT technologies and a mobile app.</p>
                   </div>
                 </div>
               </div>
@@ -394,12 +235,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/me.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/civil.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Mechanical Marvels: Building Tomorrow's Innovations Today"</h4>
-                    <p>Reflects our dedication to pushing the boundaries of mechanical engineering. We thrive on creating cutting-edge solutions and engineering marvels that redefine industries and shape a brighter future.</p>
+                    <h4 class="card-title">"Sustainable Urban Planning"</h4>
+                    <p>Develop a sustainable urban development plan that focuses on optimizing land use, transportation 
+                      systems, green spaces, and energy-efficient buildings to create a more livable and eco-friendly city.</p>
                   </div>
                 </div>
               </div>
@@ -410,12 +252,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/ce.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/electronics.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Where Innovation Meets Infrastructure"</h4>
-                    <p>Our approach to civil engineering. We blend cutting-edge innovation with time-tested principles to create sustainable, resilient, and forward-thinking infrastructure solutions that empower communities and enrich lives.</p>
+                    <h4 class="card-title">"Radar-Based Object Detection and Tracking"</h4>
+                    <p>Build a radar system for detecting and tracking
+                       moving objects, such as vehicles or drones, and use this technology for applications like traffic management or surveillance.</p>
                   </div>
                 </div>
               </div>
@@ -426,12 +269,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/ece.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/mechanical.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Sparking Innovation, Lighting the Path Forward"</h4>
-                    <p>Our dedication to driving progress in the realm of Electrical and Electronics Engineering. We ignite inventive ideas, transforming them into practical solutions that illuminate the way toward a brighter, technologically advanced future.</p>
+                    <h4 class="card-title">"Solar-Powered Portable Water Purification System"</h4>
+                    <p>An innovative solution harnessing solar energy to purify water from any source, 
+                      ensuring access to safe and clean drinking water in remote or disaster-stricken areas</p>
                   </div>
                 </div>
               </div>
@@ -441,8 +285,10 @@
         </div>
 
       </div>
-    </section><!-- End mechanicals Section -->
+    </section><!-- End Constructions Section -->
 
+    <!-- ======= Services Section ======= -->
+   
     <!-- ======= Our Projects Section ======= -->
     <section id="projects" class="projects">
       <div class="container" data-aos="fade-up">
