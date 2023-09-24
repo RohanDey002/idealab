@@ -1,5 +1,5 @@
   <?php require './components/head.php' ?>
-  <title>Arajit Enterprise</title>
+  <title>JISCE Idea-Lab</title>
 </head>
 
 <body>
@@ -51,24 +51,24 @@
 
         <div class="row position-relative">
 
-          <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.jpg);"></div>
+          <div class="col-lg-7 about-img" style="background-image: url(./image/ytimg.webp.jpg);"></div>
 
           <div class="col-lg-7">
-            <h2>Consequatur eius et magnam</h2>
+            <h2>About Idea-Lab</h2>
             <div class="our-story">
-              <h4>Est 1988</h4>
-              <h3>Our Story</h3>
-              <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
+             
+              <h3>Discover Idea-Lab</h3>
+              <p>Our Idea Lab is a creative crucible, where imagination meets innovation. We foster a culture of ideas,transforming them into tangible solutions for a brighter tomorrow.</p>
               <ul>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commo</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Our mission is to ignite creativity and innovation, providing students with a dynamic platform to turn their ideas into real-world projects.</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>We're more than just a lab; we're a thriving community of innovators, mentors, and dreamers, collaborating to make a difference.</span></li>
                 <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
               </ul>
-              <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit repellendus porro in quo eveniet. Molestias in maxime doloremque.</p>
+              <p>Explore our portfolio of projects that have left a mark, driving positive change in various fields and industries</p>
 
               <div class="watch-video d-flex align-items-center position-relative">
                 <i class="bi bi-play-circle"></i>
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch Video</a>
+                <a href="https://www.youtube.com/watch?v=smNgzGUdg60" class="glightbox stretched-link">Watch Video</a>
               </div>
             </div>
           </div>
@@ -85,7 +85,7 @@
 
         <div class="section-header">
           <h2>We are working on</h2>
-          <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p>
+          <p>We passionately pursue a diverse range of innovative projects and ideas, driven by our commitment to making a meaningful impact.</p>
         </div>
 
         <div class="row gy-4">
@@ -94,12 +94,12 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-1.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/cse.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                    <h4 class="card-title">"Solutions through Lines of Code"</h4>
+                    <p> Encapsulates our commitment to harnessing the power of programming to craft practical and innovative solutions. We transform complex challenges into elegant, efficient, and effective software, driving progress one line of code at a time.</p>
                   </div>
                 </div>
               </div>
@@ -110,12 +110,12 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-2.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/me.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-                    <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum blanditiis. Est laboriosam qui iste numquam laboriosam voluptatem architecto. Est laudantium sunt at quas aut hic. Eum dignissimos.</p>
+                    <h4 class="card-title">"Mechanical Marvels: Building Tomorrow's Innovations Today"</h4>
+                    <p>Reflects our dedication to pushing the boundaries of mechanical engineering. We thrive on creating cutting-edge solutions and engineering marvels that redefine industries and shape a brighter future.</p>
                   </div>
                 </div>
               </div>
@@ -126,12 +126,12 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-3.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/ce.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Error beatae dolor inventore aut</h4>
-                    <p>Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim molestiae facilis numquam quae quaerat ipsam omnis. Neque debitis ipsum at architecto officia laboriosam odit. Ut sunt temporibus nulla culpa.</p>
+                    <h4 class="card-title">"Where Innovation Meets Infrastructure"</h4>
+                    <p>Our approach to civil engineering. We blend cutting-edge innovation with time-tested principles to create sustainable, resilient, and forward-thinking infrastructure solutions that empower communities and enrich lives.</p>
                   </div>
                 </div>
               </div>
@@ -142,12 +142,12 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-4.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/ece.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Expedita voluptas ut ut nesciunt</h4>
-                    <p>Aut est quidem doloremque voluptatem magnam quis excepturi vero quia. Eum eos doloremque architecto illo at beatae dolore. Fugiat suscipit et sint ratione dolores. Aut aliquid ea dolores libero nobis.</p>
+                    <h4 class="card-title">"Sparking Innovation, Lighting the Path Forward"</h4>
+                    <p>Our dedication to driving progress in the realm of Electrical and Electronics Engineering. We ignite inventive ideas, transforming them into practical solutions that illuminate the way toward a brighter, technologically advanced future.</p>
                   </div>
                 </div>
               </div>
