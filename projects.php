@@ -1,6 +1,6 @@
 <?php $page='gallery'; require './components/head.php' ?>
   
-  <title>UpConstruction Bootstrap Template - Projects</title>
+  <title>Upmechanical Bootstrap Template - Projects</title>
   
 </head>
 
@@ -32,153 +32,153 @@
 
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-remodeling">Remodeling</li>
-            <li data-filter=".filter-construction">Construction</li>
-            <li data-filter=".filter-repairs">Repairs</li>
-            <li data-filter=".filter-design">Design</li>
+            <li data-filter=".filter-it">It</li>
+            <li data-filter=".filter-mechanical">Mechanical</li>
+            <li data-filter=".filter-agriculture">Agriculture</li>
+            <li data-filter=".filter-scince">Scince</li>
           </ul><!-- End Projects Filters -->
 
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img7.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 1</h4>
+                  <h4>it 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img7.webp" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img7.webp" title="it 1" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-mechanical">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img8.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 1</h4>
+                  <h4>mechanical 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img8.webp" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img8.webp" title="mechanical 1" data-gallery="portfolio-gallery-mechanical" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-agriculture">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img9.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 1</h4>
+                  <h4>agriculture 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img9.webp" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img9.webp" title="agriculture 1" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-scince">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img10.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 1</h4>
+                  <h4>scince 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img10.webp" title="Repairs 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img10.webp" title="agriculture 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img11.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 2</h4>
+                  <h4>it 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img11.webp" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img11.webp" title="it 2" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-mechanical">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img12.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 2</h4>
+                  <h4>mechanical 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img12.webp" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img12.webp" title="mechanical 2" data-gallery="portfolio-gallery-mechanical" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-agriculture">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img17.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 2</h4>
+                  <h4>agriculture 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img17.webp" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img17.webp" title="agriculture 2" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-scince">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img14.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 2</h4>
+                  <h4>scince 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img14.webp" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img14.webp" title="agriculture 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img15.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 3</h4>
+                  <h4>it 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img15.webp" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img15.webp" title="it 3" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-mechanical">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img17.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 3</h4>
+                  <h4>mechanical 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img17.webp" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img17.webp" title="mechanical 3" data-gallery="portfolio-gallery-mechanical" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-agriculture">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/agriculture-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 3</h4>
+                  <h4>agriculture 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/projects/agriculture-3.jpg" title="agriculture 2" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-scince">
               <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/projects/scince-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 3</h4>
+                  <h4>scince 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/projects/scince-3.jpg" title="agriculture 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -202,7 +202,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
-              <h3>UpConstruction</h3>
+              <h3>Upmechanical</h3>
               <p>
                 A108 Adam Street <br>
                 NY 535022, USA<br><br>
@@ -232,11 +232,11 @@
           <div class="col-lg-2 col-md-3 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><a href="#">Web Design</a></li>
+              <li><a href="#">Web scince</a></li>
               <li><a href="#">Web Development</a></li>
               <li><a href="#">Product Management</a></li>
               <li><a href="#">Marketing</a></li>
-              <li><a href="#">Graphic Design</a></li>
+              <li><a href="#">Graphic scince</a></li>
             </ul>
           </div><!-- End footer links column-->
 
@@ -269,14 +269,14 @@
     <div class="footer-legal text-center position-relative">
       <div class="container">
         <div class="copyright">
-          &copy; Copyright <strong><span>UpConstruction</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>Upmechanical</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/upmechanical-bootstrap-mechanical-website-template/ -->
+          scinceed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
         </div>
       </div>
     </div>
