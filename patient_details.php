@@ -12,7 +12,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./image/patent_background.webp'); background-size:fill;">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Patient Projects</h2>
