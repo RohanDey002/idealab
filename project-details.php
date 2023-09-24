@@ -1,4 +1,4 @@
-<?php require './components/head.php' ?>
+<?php  require './components/head.php' ?>
   
   <title>UpConstruction Bootstrap Template - Project Details</title>
   
