@@ -80,6 +80,10 @@
     <!-- ======= Get Started Section ======= -->
     <section id="features" class="features section-bg">
       <div class="container" data-aos="fade-up">
+      <div class="section-header">
+          <h2>Our Approach</h2>
+          <p>We passionately pursue a diverse range of innovative projects and ideas, driven by our commitment to making a meaningful impact.</p>
+        </div>
 
         <ul class="nav nav-tabs row  g-2 d-flex">
 
