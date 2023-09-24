@@ -23,3 +23,22 @@
 #welcome-msg3{
     color: red;
 }
+.card-bg{
+    height: 100%;
+    background-size: cover;
+}
+.card-item{
+    height: 330px;
+    padding: 15px 10px;
+    border: 1px solid #c2b3b3;
+}
+.card-item .row{
+    height: 100%;
+}
+.card-body{
+    gap: 25px !important;
+}
+.position-relative .about-img{
+background-size: contain;
+background-repeat: no-repeat;
+}
