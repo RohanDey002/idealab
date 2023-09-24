@@ -82,7 +82,7 @@
       <div class="container" data-aos="fade-up">
       <div class="section-header">
           <h2>Our Approach</h2>
-          <p>We passionately pursue a diverse range of innovative projects and ideas, driven by our commitment to making a meaningful impact.</p>
+          <p>our approach is a dynamic journey encapsulating innovation at its core. We believe in nurturing the spark of creativity in students, encouraging them to think beyond boundaries and envision groundbreaking ideas. Our process begins with the "Think" phase, where students explore their imaginations, brainstorm, and cultivate their innovative concepts.</p>
         </div>
         <ul class="nav nav-tabs row  g-2 d-flex">
 
@@ -120,15 +120,15 @@
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-                <h3>Voluptatem dignissimos provident</h3>
+                <h3>Think: Fostering Creative Ideas</h3>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                In the initial "Think" phase, we encourage students to push the boundaries of their imaginations, brainstorm, and cultivate innovative concepts. We provide a nurturing environment that allows creativity to flourish.
                 </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check2-all"></i> Encourages students to explore their creativity without limits.</li>
+                <li><i class="bi bi-check2-all"></i> Fosters an environment where innovative ideas are welcomed and nurtured.</li>
+                <li><i class="bi bi-check2-all"></i> Facilitates brainstorming sessions and creative thinking exercises.</li>
+                <li><i class="bi bi-check2-all"></i> Promotes the generation of unique and groundbreaking concepts.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
@@ -140,16 +140,15 @@
           <div class="tab-pane" id="tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Neque exercitationem debitis</h3>
+                <h3>Plan: Crafting the Blueprint</h3>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                Once the seeds of innovation are sown, we transition into the "Plan" phase. Here, students meticulously craft blueprints for their projects, devising strategies to bring their ideas to life. We provide the guidance and support needed to refine their plans, ensuring they are well-prepared for the journey ahead.
                 </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check2-all"></i> Involves creating a comprehensive strategy for protecting intellectual property.</li>
+                <li><i class="bi bi-check2-all"></i> Teaches students about copyright laws, patent processes, and trademark regulations.</li>
+                <li><i class="bi bi-check2-all"></i> Helps students identify the intellectual property associated with their projects.</li>
+                <li><i class="bi bi-check2-all"></i> Provides guidance on how to file for copyrights, patents, or trademarks.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -161,15 +160,15 @@
           <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Voluptatibus commodi accusamu</h3>
+                <h3>Execute: Turning Dreams into Reality</h3>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                <li><i class="bi bi-check2-all"></i> Involves the practical implementation of ideas and plans.</li>
+                <li><i class="bi bi-check2-all"></i> Provides access to necessary resources, equipment, and facilities.</li>
+                <li><i class="bi bi-check2-all"></i> Offers mentorship and guidance to overcome execution challenges.</li>
+                <li><i class="bi bi-check2-all"></i> Encourages teamwork and collaboration to turn concepts into tangible projects.</li>
                 </ul>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                As the path unfolds, we enter the "Execute" phase, where students roll up their sleeves and turn their plans into tangible projects. We offer the necessary resources, mentorship, and a collaborative environment for them to translate their ideas into reality. This hands-on experience allows them to learn, adapt, and overcome challenges while gaining valuable skills.
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -181,15 +180,15 @@
           <div class="tab-pane" id="tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Omnis fugiat ea explicabo sunt</h3>
+                <h3>Patent: Safeguarding Innovation Rights</h3>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                In the "Patent" phase, we emphasize the importance of safeguarding innovation through patents and copyrights. We understand that protecting intellectual property is vital, and we stand by our students, offering unwavering support, guidance, and resources as they navigate the challenges of project realization while preserving their creative rights.
                 </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check2-all"></i> Emphasizes the importance of protecting intellectual property.</li>
+                <li><i class="bi bi-check2-all"></i> Provides information on how to apply for patents or copyrights.</li>
+                <li><i class="bi bi-check2-all"></i> Ensures that students understand their rights and responsibilities as creators.</li>
+                <li><i class="bi bi-check2-all"></i> Offers support in dealing with copyright infringement or patent disputes.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -292,14 +291,11 @@
     <!-- ======= Our Projects Section ======= -->
     <section id="projects" class="projects">
       <div class="container" data-aos="fade-up">
-
         <div class="section-header">
           <h2>What our Students have done</h2>
           <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto accusamus fugit aut qui distinctio</p>
         </div>
-
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
-
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-it">IT</li>
@@ -307,9 +303,7 @@
             <li data-filter=".filter-agriculture">Agriculture</li>
             <li data-filter=".filter-scince">Scince</li>
           </ul><!-- End Projects Filters -->
-
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
             <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/it_img1.webp" class="img-fluid" alt="">
@@ -321,7 +315,7 @@
                 </div>
               </div>
             </div><!-- End Projects Item -->
-
+            
             <div class="col-lg-4 col-md-6 portfolio-item filter-mechanical">
               <div class="portfolio-content h-100">
                 <img src="./image/projects/img8.webp" class="img-fluid" alt="">
@@ -406,7 +400,7 @@
               
               <h3>Nesciunt Mete</h3>
               <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <a href="./patient_details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -415,7 +409,7 @@
               
               <h3>Eosle Commodi</h3>
               <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <a href="./patient_details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -424,7 +418,7 @@
               
               <h3>Ledo Markt</h3>
               <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <a href="./patient_details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -433,7 +427,7 @@
               
               <h3>Asperiores Commodit</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <a href="./patient_details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -442,7 +436,7 @@
               
               <h3>Velit Doloremque</h3>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <a href="./patient_details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -451,7 +445,7 @@
               
               <h3>Dolori Architecto</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <a href="./patient_details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -466,7 +460,8 @@
 
         <div class="section-header">
           <h2>Feedback</h2>
-          <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia reprehenderit sunt deleniti</p>
+          <p>The "Feedback" section is your opportunity to hear
+             from our community, enabling continuous improvement and fostering a culture of collaboration and transparency.</p>
         </div>
 
         <div class="slides-2 swiper">
@@ -476,15 +471,17 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <h3>Kunal Dey</h3>
+                  <h4>Project Managers</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                    <i class="bi bi-quote quote-icon-right"></i>
+                    Project managers are responsible for planning, organizing, and overseeing the execution 
+                    of projects. They ensure that projects stay on track, meet their objectives, and are 
+                    completed within the specified time frame and budget.
+                  <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
               </div>
@@ -494,68 +491,35 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>scinceer</h4>
+                  <h3>Mithali Saha</h3>
+                  <h4>Administrative staff</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    Administrative staff members handle the day-to-day operations of the lab. They manage 
+                    schedules, coordinate meetings, handle finances, and ensure that everything runs smoothly.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
+            </div><!-- End testimonial item -->        
+           
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
+                  <h3>Prakash Mitra</h3>
+                  <h4>Collaborators and Partners</h4>
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    Members may collaborate with external partners, such as industry experts, businesses, or 
+                    other organizations, to bring additional resources and expertise to their projects.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -567,72 +531,13 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section><!-- End Testimonials Section --
 
    
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
-
-    <div class="footer-content position-relative">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="footer-info">
-              <h3>JISCE IDEA-Lab</h3>
-              <p>
-              Block A, Phase III,
-                Kalyani, Nadia - 741235 West Bengalbr><br>
-                <strong>Phone:</strong> 033 2582 2138<br>
-                <strong>Admission:</strong>033 2580 8640 / 033 2580 8560 / 9432011490 / 8697743363<br>
-                <strong>Email:</strong>info.jiscollege@jisgroup.org<br>
-                <strong>Website:</strong> www.jiscollege.ac.in<br>
-              </p>
-              <div class="social-links d-flex mt-3">
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a>
-              </div>
-            </div>
-          </div><!-- End footer info column-->
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Project Gallery</a></li>
-              <li><a href="#">Patient Projects</a></li>
-              <li><a href="#">Contact Us</a></li>
-            </ul>
-          </div><!-- End footer links column-->
-
-       
-          <div class="col-lg-2 col-md-3 footer-links">
-           
-          </div><!-- End footer links column-->
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            
-          </div><!-- End footer links column-->
-
-        </div>
-      </div>
-    </div>
-
-    <div class="footer-legal text-center position-relative">
-      <div class="container">
-        <div class="copyright">
-          &copy; Copyright <strong><span>JISCE IDEA-LAb</span></strong>. All Rights Reserved
-        </div>
-       
-      </div>
-    </div>
-
-  </footer>
+  <?php require './components/footer.php'?>
   <!-- End Footer -->
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
