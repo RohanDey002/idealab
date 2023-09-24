@@ -298,11 +298,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img7.webp" class="img-fluid" alt="">
+                <img src="./image/projects/it_img1" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>it 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img7.webp" title="it 1" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/it_img1.webp" title="it 1" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -322,11 +322,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-agriculture">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img9.webp" class="img-fluid" alt="">
+                <img src="./image/projects/agriculture_img1" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>agriculture 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img9.webp" title="agriculture 1" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/agriculture_img1" title="agriculture 1" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -334,11 +334,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-scince">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img10.webp" class="img-fluid" alt="">
+                <img src="./image/projects/science_img1" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>scince 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img10.webp" title="agriculture 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/science_img1" title="agriculture 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -346,11 +346,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img11.webp" class="img-fluid" alt="">
+                <img src="./image/projects/it_img2" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>it 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img11.webp" title="it 2" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/it_img2" title="it 2" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
