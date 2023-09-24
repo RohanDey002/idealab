@@ -17,7 +17,7 @@
 
         <h2>Sample Inner Page</h2>
         <ol>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li>Sample Inner Page</li>
         </ol>
 
