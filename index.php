@@ -381,6 +381,11 @@
           </div><!-- End Projects Container -->
 
         </div>
+        <div class="button_more1">
+          <a data-aos="fade-more1" data-aos-delay="200" href="http://localhost/idealab/projects.php" class="btn-get-more1">More
+          <i class="fa-solid fa-arrow-right"></i>
+          </a>
+        </div>
 
       </div>
     </section><!-- End Our Projects Section -->
@@ -397,7 +402,7 @@
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item  position-relative img1">
+            <div class="service-item  position-relative img1 images">
               
               <h3>Electric Vehicles Charging Point</h3>
               <p>Efficient EV charging infrastructure for a greener future, promoting 
@@ -407,7 +412,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative img2">
+            <div class="service-item position-relative img2 images">
               
               <h3>Smart Helmet With IoT</h3>
               <p>A smart IoT helmet for enhanced safety, integrating sensors and connectivity
@@ -417,7 +422,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative img3">
+            <div class="service-item position-relative img3 images">
               
               <h3>BlockChain Voting System</h3>
               <p>Secure and transparent blockchain-based voting system, ensuring tamper-proof elections and 
@@ -427,7 +432,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="service-item position-relative img4">
+            <div class="service-item position-relative img4 images">
               
               <h3>Fingerprint Door Lock</h3>
               <p>Advanced fingerprint door lock, offering biometric security 
@@ -437,7 +442,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="service-item position-relative img5">
+            <div class="service-item position-relative img5 images">
               
               <h3>Accident Detecting Car</h3>
               <p>Cutting-edge accident-detecting car technology for immediate 
@@ -447,7 +452,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="service-item position-relative img6">
+            <div class="service-item position-relative img6 images">
               
               <h3>Smart Dustbin</h3>
               <p>A smart dustbin equipped with sensors for efficient waste management 
@@ -456,6 +461,11 @@
             </div>
           </div><!-- End Service Item -->
 
+        </div>
+        <div class="button_more1 button_more2">
+          <a data-aos="fade-more1" data-aos-delay="200" href="http://localhost/idealab/patientproject.php" class="btn-get-more1">More
+          <i class="fa-solid fa-arrow-right"></i>
+          </a>
         </div>
 
       </div>
