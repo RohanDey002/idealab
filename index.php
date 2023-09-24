@@ -94,12 +94,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/cse.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/IoT.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Solutions through Lines of Code"</h4>
-                    <p> Encapsulates our commitment to harnessing the power of programming to craft practical and innovative solutions. We transform complex challenges into elegant, efficient, and effective software, driving progress one line of code at a time.</p>
+                    <h4 class="card-title">"Home Automation and IoT Integration"</h4>
+                    <p> Create a home automation system that allows users to control
+                       and monitor various household devices using IoT technologies and a mobile app.</p>
                   </div>
                 </div>
               </div>
@@ -110,12 +111,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/me.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/civil.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Mechanical Marvels: Building Tomorrow's Innovations Today"</h4>
-                    <p>Reflects our dedication to pushing the boundaries of mechanical engineering. We thrive on creating cutting-edge solutions and engineering marvels that redefine industries and shape a brighter future.</p>
+                    <h4 class="card-title">"Sustainable Urban Planning"</h4>
+                    <p>Develop a sustainable urban development plan that focuses on optimizing land use, transportation 
+                      systems, green spaces, and energy-efficient buildings to create a more livable and eco-friendly city.</p>
                   </div>
                 </div>
               </div>
@@ -126,12 +128,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/ce.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/electronics.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Where Innovation Meets Infrastructure"</h4>
-                    <p>Our approach to civil engineering. We blend cutting-edge innovation with time-tested principles to create sustainable, resilient, and forward-thinking infrastructure solutions that empower communities and enrich lives.</p>
+                    <h4 class="card-title">"Radar-Based Object Detection and Tracking"</h4>
+                    <p>Build a radar system for detecting and tracking
+                       moving objects, such as vehicles or drones, and use this technology for applications like traffic management or surveillance.</p>
                   </div>
                 </div>
               </div>
@@ -142,12 +145,13 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(./image/Working-img/ece.webp);"></div>
+                  <div class="card-bg" style="background-image: url(./image/Working-img/mechanical.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">"Sparking Innovation, Lighting the Path Forward"</h4>
-                    <p>Our dedication to driving progress in the realm of Electrical and Electronics Engineering. We ignite inventive ideas, transforming them into practical solutions that illuminate the way toward a brighter, technologically advanced future.</p>
+                    <h4 class="card-title">"Solar-Powered Portable Water Purification System"</h4>
+                    <p>An innovative solution harnessing solar energy to purify water from any source, 
+                      ensuring access to safe and clean drinking water in remote or disaster-stricken areas</p>
                   </div>
                 </div>
               </div>
@@ -582,12 +586,14 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
-              <h3>UpConstruction</h3>
+              <h3>JISCE IDEA-Lab</h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+              Block A, Phase III,
+                Kalyani, Nadia - 741235 West Bengalbr><br>
+                <strong>Phone:</strong> 033 2582 2138<br>
+                <strong>Admission:</strong>033 2580 8640 / 033 2580 8560 / 9432011490 / 8697743363<br>
+                <strong>Email:</strong>info.jiscollege@jisgroup.org<br>
+                <strong>Website:</strong> www.jiscollege.ac.in<br>
               </p>
               <div class="social-links d-flex mt-3">
                 <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
@@ -603,23 +609,13 @@
             <ul>
               <li><a href="#">Home</a></li>
               <li><a href="#">About us</a></li>
-              <li><a href="#">Services</a></li>
-              <li><a href="#">Terms of service</a></li>
-              <li><a href="#">Privacy policy</a></li>
+              <li><a href="#">Project Gallery</a></li>
+              <li><a href="#">Patient Projects</a></li>
+              <li><a href="#">Contact Us</a></li>
             </ul>
           </div><!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><a href="#">Web Design</a></li>
-              <li><a href="#">Web Development</a></li>
-              <li><a href="#">Product Management</a></li>
-              <li><a href="#">Marketing</a></li>
-              <li><a href="#">Graphic Design</a></li>
-            </ul>
-          </div><!-- End footer links column-->
-
+       
           <div class="col-lg-2 col-md-3 footer-links">
            
           </div><!-- End footer links column-->
@@ -635,11 +631,9 @@
     <div class="footer-legal text-center position-relative">
       <div class="container">
         <div class="copyright">
-          &copy; Copyright <strong><span>UpConstruction</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>JISCE IDEA-LAb</span></strong>. All Rights Reserved
         </div>
-        <div class="credits">
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
+       
       </div>
     </div>
 
