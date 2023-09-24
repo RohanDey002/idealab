@@ -381,6 +381,11 @@
           </div><!-- End Projects Container -->
 
         </div>
+        <div class="button_more1">
+          <a data-aos="fade-more1" data-aos-delay="200" href="http://localhost/idealab/projects.php" class="btn-get-more1">More
+          <i class="fa-solid fa-arrow-right"></i>
+          </a>
+        </div>
 
       </div>
     </section><!-- End Our Projects Section -->
@@ -396,7 +401,7 @@
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="service-item  position-relative img1">
+            <div class="service-item  position-relative img1 images">
               
               <h3>Nesciunt Mete</h3>
               <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
@@ -405,7 +410,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="service-item position-relative img2">
+            <div class="service-item position-relative img2 images">
               
               <h3>Eosle Commodi</h3>
               <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
@@ -414,7 +419,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative img3">
+            <div class="service-item position-relative img3 images">
               
               <h3>Ledo Markt</h3>
               <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
@@ -423,7 +428,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="service-item position-relative img4">
+            <div class="service-item position-relative img4 images">
               
               <h3>Asperiores Commodit</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
@@ -432,7 +437,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="service-item position-relative img5">
+            <div class="service-item position-relative img5 images">
               
               <h3>Velit Doloremque</h3>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
@@ -441,7 +446,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="service-item position-relative img6">
+            <div class="service-item position-relative img6 images">
               
               <h3>Dolori Architecto</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
@@ -449,6 +454,11 @@
             </div>
           </div><!-- End Service Item -->
 
+        </div>
+        <div class="button_more1 button_more2">
+          <a data-aos="fade-more1" data-aos-delay="200" href="http://localhost/idealab/patientproject.php" class="btn-get-more1">More
+          <i class="fa-solid fa-arrow-right"></i>
+          </a>
         </div>
 
       </div>
