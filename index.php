@@ -14,8 +14,12 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-9 text-center">
-            <h2 data-aos="fade-down" class="welcome_text">Welcome to <span>JISCE Idea Lab</span></h2>
-            <h5 data-aos="fade-up">We Help to<span class="header_text_change"></span></h5>
+            <h2 data-aos="fade-down" class="welcome_text">Welcome to 
+              <span id="welcome-msg1">JISCE</span>
+                <span id="welcome-msg2">Idea</span>
+                <span id="welcome-msg3"> Lab</span>
+              </h2>
+            <h5 data-aos="fade-up" class="text-change">We Help to <span class="header_text_change"></span></h5>
             <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
           </div>
         </div>
@@ -23,8 +27,8 @@
     </div>
 
     <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
-      <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/hero-carousel-1.webp)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-2.webp)"></div>
+      <div class="carousel-item active" style="background-image: url(./image/slides/slide1.webp)"></div>
+      <div class="carousel-item" style="background-image: url(image/slides/slide1.webp)"></div>
       <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-3.webp)"></div>
       <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-4.webp)"></div>
       <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-5.webp)"></div>
@@ -654,7 +658,8 @@
     new TypeIt(".header_text_change", {
       speed: 75,
       loop: true,
-    }).type("the mot versti", { delay: 100 })
+    }).type("discover innovative student projects and groundbreaking ideas that thrive in our Idea Lab, shaping a brighter future.", { delay: 100 })
+    .type("Unlock students creativity", { delay: 100 })
     .go();
   </script>
 </body>
