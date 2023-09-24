@@ -33,19 +33,19 @@
             <div class="swiper-wrapper align-items-center">
 
               <div class="swiper-slide">
-                <img src="assets/img/projects/remodeling-1.jpg" alt="">
+                <img src="./image/projects/img7.webp" alt="">
               </div>
 
               <div class="swiper-slide">
-                <img src="assets/img/projects/construction-1.jpg" alt="">
+                <img src="./image/projects/agriculture_img1.webp" alt="">
               </div>
 
               <div class="swiper-slide">
-                <img src="assets/img/projects/design-1.jpg" alt="">
+                <img src="./image/projects/science_img3.webp" alt="">
               </div>
 
               <div class="swiper-slide">
-                <img src="assets/img/projects/repairs-1.jpg" alt="">
+                <img src="./image/projects/img12.webp" alt="">
               </div>
 
             </div>
