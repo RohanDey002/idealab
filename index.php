@@ -85,6 +85,166 @@
           <p>We passionately pursue a diverse range of innovative projects and ideas, driven by our commitment to making a meaningful impact.</p>
         </div>
 
+        <div class="row gy-4">
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(./image/Working-img/IoT.webp);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">"Home Automation and IoT Integration"</h4>
+                    <p> Create a home automation system that allows users to control
+                       and monitor various household devices using IoT technologies and a mobile app.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(./image/Working-img/civil.webp);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">"Sustainable Urban Planning"</h4>
+                    <p>Develop a sustainable urban development plan that focuses on optimizing land use, transportation 
+                      systems, green spaces, and energy-efficient buildings to create a more livable and eco-friendly city.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(./image/Working-img/electronics.webp);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">"Radar-Based Object Detection and Tracking"</h4>
+                    <p>Build a radar system for detecting and tracking
+                       moving objects, such as vehicles or drones, and use this technology for applications like traffic management or surveillance.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg" style="background-image: url(./image/Working-img/mechanical.webp);"></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">"Solar-Powered Portable Water Purification System"</h4>
+                    <p>An innovative solution harnessing solar energy to purify water from any source, 
+                      ensuring access to safe and clean drinking water in remote or disaster-stricken areas</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Constructions Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Patient projects</h2>
+          <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos quam</p>
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-mountain-city"></i>
+              </div>
+              <h3>Nesciunt Mete</h3>
+              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+              </div>
+              <h3>Eosle Commodi</h3>
+              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-compass-drafting"></i>
+              </div>
+              <h3>Ledo Markt</h3>
+              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-trowel-bricks"></i>
+              </div>
+              <h3>Asperiores Commodit</h3>
+              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-helmet-safety"></i>
+              </div>
+              <h3>Velit Doloremque</h3>
+              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+              </div>
+              <h3>Dolori Architecto</h3>
+              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features section-bg">
+      <div class="container" data-aos="fade-up">
+
         <ul class="nav nav-tabs row  g-2 d-flex">
 
           <li class="nav-item col-3">
@@ -306,11 +466,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img7.webp" class="img-fluid" alt="">
+                <img src="./image/projects/it_img1.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>it 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img7.webp" title="it 1" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/it_img1.webp" title="it 1" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -330,11 +490,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-agriculture">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img9.webp" class="img-fluid" alt="">
+                <img src="./image/projects/agriculture_img1.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>agriculture 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img9.webp" title="agriculture 1" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/agriculture_img1.webp" title="agriculture 1" data-gallery="portfolio-gallery-agriculture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -342,11 +502,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-scince">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img10.webp" class="img-fluid" alt="">
+                <img src="./image/projects/science_img1.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>scince 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img10.webp" title="agriculture 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/science_img1.webp" title="agriculture 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -354,11 +514,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-it">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img11.webp" class="img-fluid" alt="">
+                <img src="./image/projects/it_img2.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>it 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img11.webp" title="it 2" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/it_img2.webp" title="it 2" data-gallery="portfolio-gallery-it" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -366,11 +526,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-mechanical">
               <div class="portfolio-content h-100">
-                <img src="./image/projects/img12.webp" class="img-fluid" alt="">
+                <img src="./image/projects/img10.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>mechanical 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="./image/projects/img12.webp" title="mechanical 2" data-gallery="portfolio-gallery-mechanical" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="./image/projects/img10.webp" title="mechanical 2" data-gallery="portfolio-gallery-mechanical" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -575,12 +735,14 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
-              <h3>Upmechanical</h3>
+              <h3>JISCE IDEA-Lab</h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+              Block A, Phase III,
+                Kalyani, Nadia - 741235 West Bengalbr><br>
+                <strong>Phone:</strong> 033 2582 2138<br>
+                <strong>Admission:</strong>033 2580 8640 / 033 2580 8560 / 9432011490 / 8697743363<br>
+                <strong>Email:</strong>info.jiscollege@jisgroup.org<br>
+                <strong>Website:</strong> www.jiscollege.ac.in<br>
               </p>
               <div class="social-links d-flex mt-3">
                 <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
@@ -596,23 +758,13 @@
             <ul>
               <li><a href="#">Home</a></li>
               <li><a href="#">About us</a></li>
-              <li><a href="#">Services</a></li>
-              <li><a href="#">Terms of service</a></li>
-              <li><a href="#">Privacy policy</a></li>
+              <li><a href="#">Project Gallery</a></li>
+              <li><a href="#">Patient Projects</a></li>
+              <li><a href="#">Contact Us</a></li>
             </ul>
           </div><!-- End footer links column-->
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><a href="#">Web scince</a></li>
-              <li><a href="#">Web Development</a></li>
-              <li><a href="#">Product Management</a></li>
-              <li><a href="#">Marketing</a></li>
-              <li><a href="#">Graphic scince</a></li>
-            </ul>
-          </div><!-- End footer links column-->
-
+       
           <div class="col-lg-2 col-md-3 footer-links">
            
           </div><!-- End footer links column-->
@@ -628,11 +780,9 @@
     <div class="footer-legal text-center position-relative">
       <div class="container">
         <div class="copyright">
-          &copy; Copyright <strong><span>Upmechanical</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>JISCE IDEA-LAb</span></strong>. All Rights Reserved
         </div>
-        <div class="credits">
-          scinceed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
+       
       </div>
     </div>
 
