@@ -1,4 +1,4 @@
-  <?php require './components/head.php' ?>
+  <?php $page='home'; require './components/head.php' ?>
   <title>JISCE Idea-Lab</title>
 </head>
 

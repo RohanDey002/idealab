@@ -1,4 +1,4 @@
-<?php require './components/head.php' ?>
+<?php $page='gallery'; require './components/head.php' ?>
   
   <title>UpConstruction Bootstrap Template - Projects</title>
   
@@ -12,7 +12,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Projects</h2>
