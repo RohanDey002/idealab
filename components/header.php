@@ -1,9 +1,9 @@
 <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="./image/logo.svg" alt="">
+      <a href="index.html" class="logo d-flex align-items-end">
+        <img src="./image/logo.webp" alt="">
+        <h2 class="m-0">IDEALab</h2>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -12,18 +12,9 @@
         <ul>
           <li><a href="index.html" class="active">Home</a></li>
           <li><a href="about.html">About Us</a></li>
-          <li class="dropdown"><a href="#"><span>Product</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
-            </ul>
-          </li>
-          <li><a href="projects.html">Gallery</a></li>
-          <li><a href="#">Client</a></li>
-          <li><a href="#">Feedback</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="projects.html">Project Gallery</a></li>
+          <li><a href="#">Patient Projects</a></li>
+          <li><a href="#">Contact Us</a></li>
         </ul>
       </nav><!-- .navbar -->
 

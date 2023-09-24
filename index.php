@@ -10,13 +10,12 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero">
-
     <div class="info d-flex align-items-center">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-9 text-center">
             <h2 data-aos="fade-down" class="welcome_text">Welcome to <span>JISCE Idea Lab</span></h2>
-            <h5 data-aos="fade-up">We Help to <span class="header_text_change"></span></h5>
+            <h5 data-aos="fade-up">We Help to<span class="header_text_change"></span></h5>
             <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
           </div>
         </div>
@@ -41,68 +40,49 @@
     </div>
 
   </section><!-- End Hero Section -->
-
+  
   <main id="main">
 
-    <!-- ======= Get Started Section ======= -->
-    <section id="get-started" class="get-started section-bg">
-      <div class="container">
 
-        <div class="row justify-content-between gy-4">
+  <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
 
-          <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
-            <div class="content">
-              <h3>Minus hic non reiciendis ea possimus at quia.</h3>
-              <p>Rem id rerum. Debitis deserunt quidem delectus expedita ducimus dolor. Aut iusto ipsa. Eos ipsum nobis ipsa soluta itaque perspiciatis fuga ipsum perspiciatis. Eum amet fugiat totam nisi possimus ut delectus dicta.
-              <p>Aliquam velit deserunt autem. Inventore et saepe. Tenetur suscipit eligendi labore culpa eos. Deserunt porro magni qui necessitatibus dolorem at animi cupiditate.</p>
+        <div class="row position-relative">
+
+          <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.jpg);"></div>
+
+          <div class="col-lg-7">
+            <h2>Consequatur eius et magnam</h2>
+            <div class="our-story">
+              <h4>Est 1988</h4>
+              <h3>Our Story</h3>
+              <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
+              <ul>
+                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commo</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
+              </ul>
+              <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit repellendus porro in quo eveniet. Molestias in maxime doloremque.</p>
+
+              <div class="watch-video d-flex align-items-center position-relative">
+                <i class="bi bi-play-circle"></i>
+                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch Video</a>
+              </div>
             </div>
           </div>
-
-          <div class="col-lg-5" data-aos="fade">
-            <form action="forms/quote.php" method="post" class="php-email-form">
-              <h3>Get a quote</h3>
-              <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
-              <div class="row gy-3">
-
-                <div class="col-md-12">
-                  <input type="text" name="name" class="form-control" placeholder="Name" required>
-                </div>
-
-                <div class="col-md-12 ">
-                  <input type="email" class="form-control" name="email" placeholder="Email" required>
-                </div>
-
-                <div class="col-md-12">
-                  <input type="text" class="form-control" name="phone" placeholder="Phone" required>
-                </div>
-
-                <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
-                </div>
-
-                <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
-
-                  <button type="submit">Get a quote</button>
-                </div>
-
-              </div>
-            </form>
-          </div><!-- End Quote Form -->
 
         </div>
 
       </div>
-    </section><!-- End Get Started Section -->
+    </section>
+    <!-- ======= Get Started Section ======= -->
 
     <!-- ======= Constructions Section ======= -->
     <section id="constructions" class="constructions">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Constructions</h2>
+          <h2>We are working on</h2>
           <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p>
         </div>
 
@@ -182,7 +162,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Services</h2>
+          <h2>Patient projects</h2>
           <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos quam</p>
         </div>
 
@@ -258,56 +238,6 @@
 
       </div>
     </section><!-- End Services Section -->
-
-    <!-- ======= Alt Services Section ======= -->
-    <section id="alt-services" class="alt-services">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row justify-content-around gy-4">
-          <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
-
-          <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
-
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-              <i class="bi bi-easel flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              </div>
-            </div><!-- End Icon Box -->
-
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-              <i class="bi bi-patch-check flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-              </div>
-            </div><!-- End Icon Box -->
-
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-brightness-high flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-              </div>
-            </div><!-- End Icon Box -->
-
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-brightness-high flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-              </div>
-            </div><!-- End Icon Box -->
-
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Alt Services Section -->
-
     <!-- ======= Features Section ======= -->
     <section id="features" class="features section-bg">
       <div class="container" data-aos="fade-up">
@@ -316,24 +246,24 @@
 
           <li class="nav-item col-3">
             <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-              <h4>Modisit</h4>
+              <h4>Think</h4>
             </a>
           </li><!-- End tab nav item -->
 
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-              <h4>Praesenti</h4>
+              <h4>Plan</h4>
             </a><!-- End tab nav item -->
 
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-              <h4>Explica</h4>
+              <h4>Execute</h4>
             </a>
           </li><!-- End tab nav item -->
 
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-              <h4>Nostrum</h4>
+              <h4>Paitent</h4>
             </a>
           </li><!-- End tab nav item -->
 
@@ -432,7 +362,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Our Projects</h2>
+          <h2>What our Students have done</h2>
           <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto accusamus fugit aut qui distinctio</p>
         </div>
 
@@ -520,77 +450,7 @@
               </div>
             </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Design 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Remodeling 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Construction 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-3.jpg" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Design 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+            
 
           </div><!-- End Projects Container -->
 
@@ -604,7 +464,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Testimonials</h2>
+          <h2>Feedback</h2>
           <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia reprehenderit sunt deleniti</p>
         </div>
 
@@ -708,118 +568,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Recent Blog Posts Section ======= -->
-    <section id="recent-blog-posts" class="recent-blog-posts">
-      <div class="container" data-aos="fade-up"">
-
-    
-    
-  <div class=" section-header">
-        <h2>Recent Blog Posts</h2>
-        <p>In commodi voluptatem excepturi quaerat nihil error autem voluptate ut et officia consequuntu</p>
-      </div>
-
-      <div class="row gy-5">
-
-        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-          <div class="post-item position-relative h-100">
-
-            <div class="post-img position-relative overflow-hidden">
-              <img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt="">
-              <span class="post-date">December 12</span>
-            </div>
-
-            <div class="post-content d-flex flex-column">
-
-              <h3 class="post-title">Eum ad dolor et. Autem aut fugiat debitis</h3>
-
-              <div class="meta d-flex align-items-center">
-                <div class="d-flex align-items-center">
-                  <i class="bi bi-person"></i> <span class="ps-2">Julia Parker</span>
-                </div>
-                <span class="px-3 text-black-50">/</span>
-                <div class="d-flex align-items-center">
-                  <i class="bi bi-folder2"></i> <span class="ps-2">Politics</span>
-                </div>
-              </div>
-
-              <hr>
-
-              <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-
-            </div>
-
-          </div>
-        </div><!-- End post item -->
-
-        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-          <div class="post-item position-relative h-100">
-
-            <div class="post-img position-relative overflow-hidden">
-              <img src="assets/img/blog/blog-2.jpg" class="img-fluid" alt="">
-              <span class="post-date">July 17</span>
-            </div>
-
-            <div class="post-content d-flex flex-column">
-
-              <h3 class="post-title">Et repellendus molestiae qui est sed omnis</h3>
-
-              <div class="meta d-flex align-items-center">
-                <div class="d-flex align-items-center">
-                  <i class="bi bi-person"></i> <span class="ps-2">Mario Douglas</span>
-                </div>
-                <span class="px-3 text-black-50">/</span>
-                <div class="d-flex align-items-center">
-                  <i class="bi bi-folder2"></i> <span class="ps-2">Sports</span>
-                </div>
-              </div>
-
-              <hr>
-
-              <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-
-            </div>
-
-          </div>
-        </div><!-- End post item -->
-
-        <div class="col-xl-4 col-md-6">
-          <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="300">
-
-            <div class="post-img position-relative overflow-hidden">
-              <img src="assets/img/blog/blog-3.jpg" class="img-fluid" alt="">
-              <span class="post-date">September 05</span>
-            </div>
-
-            <div class="post-content d-flex flex-column">
-
-              <h3 class="post-title">Quia assumenda est et veritati tirana ploder</h3>
-
-              <div class="meta d-flex align-items-center">
-                <div class="d-flex align-items-center">
-                  <i class="bi bi-person"></i> <span class="ps-2">Lisa Hunter</span>
-                </div>
-                <span class="px-3 text-black-50">/</span>
-                <div class="d-flex align-items-center">
-                  <i class="bi bi-folder2"></i> <span class="ps-2">Economics</span>
-                </div>
-              </div>
-
-              <hr>
-
-              <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-
-            </div>
-
-          </div>
-        </div><!-- End post item -->
-
-      </div>
-
-      </div>
-    </section>
-    <!-- End Recent Blog Posts Section -->
-
+   
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
@@ -870,25 +619,11 @@
           </div><!-- End footer links column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Hic solutasetp</h4>
-            <ul>
-              <li><a href="#">Molestiae accusamus iure</a></li>
-              <li><a href="#">Excepturi dignissimos</a></li>
-              <li><a href="#">Suscipit distinctio</a></li>
-              <li><a href="#">Dilecta</a></li>
-              <li><a href="#">Sit quas consectetur</a></li>
-            </ul>
+           
           </div><!-- End footer links column-->
 
           <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Nobis illum</h4>
-            <ul>
-              <li><a href="#">Ipsam</a></li>
-              <li><a href="#">Laudantium dolorum</a></li>
-              <li><a href="#">Dinera</a></li>
-              <li><a href="#">Trodelas</a></li>
-              <li><a href="#">Flexo</a></li>
-            </ul>
+            
           </div><!-- End footer links column-->
 
         </div>
