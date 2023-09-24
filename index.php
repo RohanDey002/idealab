@@ -82,7 +82,7 @@
       <div class="container" data-aos="fade-up">
       <div class="section-header">
           <h2>Our Approach</h2>
-          <p>We passionately pursue a diverse range of innovative projects and ideas, driven by our commitment to making a meaningful impact.</p>
+          <p>our approach is a dynamic journey encapsulating innovation at its core. We believe in nurturing the spark of creativity in students, encouraging them to think beyond boundaries and envision groundbreaking ideas. Our process begins with the "Think" phase, where students explore their imaginations, brainstorm, and cultivate their innovative concepts.</p>
         </div>
         <ul class="nav nav-tabs row  g-2 d-flex">
 
@@ -120,15 +120,15 @@
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-                <h3>Voluptatem dignissimos provident</h3>
+                <h3>Think: Fostering Creative Ideas</h3>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                In the initial "Think" phase, we encourage students to push the boundaries of their imaginations, brainstorm, and cultivate innovative concepts. We provide a nurturing environment that allows creativity to flourish.
                 </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check2-all"></i> Encourages students to explore their creativity without limits.</li>
+                <li><i class="bi bi-check2-all"></i> Fosters an environment where innovative ideas are welcomed and nurtured.</li>
+                <li><i class="bi bi-check2-all"></i> Facilitates brainstorming sessions and creative thinking exercises.</li>
+                <li><i class="bi bi-check2-all"></i> Promotes the generation of unique and groundbreaking concepts.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
@@ -140,16 +140,15 @@
           <div class="tab-pane" id="tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Neque exercitationem debitis</h3>
+                <h3>Plan: Crafting the Blueprint</h3>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                Once the seeds of innovation are sown, we transition into the "Plan" phase. Here, students meticulously craft blueprints for their projects, devising strategies to bring their ideas to life. We provide the guidance and support needed to refine their plans, ensuring they are well-prepared for the journey ahead.
                 </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check2-all"></i> Involves creating a comprehensive strategy for protecting intellectual property.</li>
+                <li><i class="bi bi-check2-all"></i> Teaches students about copyright laws, patent processes, and trademark regulations.</li>
+                <li><i class="bi bi-check2-all"></i> Helps students identify the intellectual property associated with their projects.</li>
+                <li><i class="bi bi-check2-all"></i> Provides guidance on how to file for copyrights, patents, or trademarks.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -161,15 +160,15 @@
           <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Voluptatibus commodi accusamu</h3>
+                <h3>Execute: Turning Dreams into Reality</h3>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                <li><i class="bi bi-check2-all"></i> Involves the practical implementation of ideas and plans.</li>
+                <li><i class="bi bi-check2-all"></i> Provides access to necessary resources, equipment, and facilities.</li>
+                <li><i class="bi bi-check2-all"></i> Offers mentorship and guidance to overcome execution challenges.</li>
+                <li><i class="bi bi-check2-all"></i> Encourages teamwork and collaboration to turn concepts into tangible projects.</li>
                 </ul>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                As the path unfolds, we enter the "Execute" phase, where students roll up their sleeves and turn their plans into tangible projects. We offer the necessary resources, mentorship, and a collaborative environment for them to translate their ideas into reality. This hands-on experience allows them to learn, adapt, and overcome challenges while gaining valuable skills.
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -181,15 +180,15 @@
           <div class="tab-pane" id="tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Omnis fugiat ea explicabo sunt</h3>
+                <h3>Patent: Safeguarding Innovation Rights</h3>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                In the "Patent" phase, we emphasize the importance of safeguarding innovation through patents and copyrights. We understand that protecting intellectual property is vital, and we stand by our students, offering unwavering support, guidance, and resources as they navigate the challenges of project realization while preserving their creative rights.
                 </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check2-all"></i> Emphasizes the importance of protecting intellectual property.</li>
+                <li><i class="bi bi-check2-all"></i> Provides information on how to apply for patents or copyrights.</li>
+                <li><i class="bi bi-check2-all"></i> Ensures that students understand their rights and responsibilities as creators.</li>
+                <li><i class="bi bi-check2-all"></i> Offers support in dealing with copyright infringement or patent disputes.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
