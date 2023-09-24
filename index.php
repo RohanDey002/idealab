@@ -746,7 +746,7 @@
               <h3>JISCE IDEA-Lab</h3>
               <p>
               Block A, Phase III,
-                Kalyani, Nadia - 741235 West Bengalbr><br>
+                Kalyani, Nadia - 741235 West Bengal<br>
                 <strong>Phone:</strong> 033 2582 2138<br>
                 <strong>Admission:</strong>033 2580 8640 / 033 2580 8560 / 9432011490 / 8697743363<br>
                 <strong>Email:</strong>info.jiscollege@jisgroup.org<br>

@@ -27,24 +27,24 @@
 
         <div class="row position-relative">
 
-          <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.jpg);"></div>
+          <div class="col-lg-7 about-img" style="background-image: url(./image/ytimg.webp.jpg);"></div>
 
           <div class="col-lg-7">
-            <h2>Consequatur eius et magnam</h2>
+            <h2>About Idea-Lab</h2>
             <div class="our-story">
-              <h4>Est 1988</h4>
-              <h3>Our Story</h3>
-              <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
+             
+              <h3>Discover Idea-Lab</h3>
+              <p>Our Idea Lab is a creative crucible, where imagination meets innovation. We foster a culture of ideas,transforming them into tangible solutions for a brighter tomorrow.</p>
               <ul>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commo</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>Our mission is to ignite creativity and innovation, providing students with a dynamic platform to turn their ideas into real-world projects.</span></li>
+                <li><i class="bi bi-check-circle"></i> <span>We're more than just a lab; we're a thriving community of innovators, mentors, and dreamers, collaborating to make a difference.</span></li>
                 <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
               </ul>
-              <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit repellendus porro in quo eveniet. Molestias in maxime doloremque.</p>
+              <p>Explore our portfolio of projects that have left a mark, driving positive change in various fields and industries</p>
 
               <div class="watch-video d-flex align-items-center position-relative">
                 <i class="bi bi-play-circle"></i>
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox stretched-link">Watch Video</a>
+                <a href="https://www.youtube.com/watch?v=smNgzGUdg60" class="glightbox stretched-link">Watch Video</a>
               </div>
             </div>
           </div>
@@ -61,42 +61,34 @@
 
         <div class="row gy-4">
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Happy Clients</p>
+                <span data-purecounter-start="0" data-purecounter-end="513" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Students</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="748" data-purecounter-duration="1" class="purecounter"></span>
                 <p>Projects</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="bi bi-headset color-green flex-shrink-0"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Hours Of Support</p>
-              </div>
-            </div>
-          </div><!-- End Stats Item -->
+         <!-- End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-people color-pink flex-shrink-0"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Hard Workers</p>
+                <span data-purecounter-start="0" data-purecounter-end="45" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Members</p>
               </div>
             </div>
           </div><!-- End Stats Item -->
@@ -208,8 +200,9 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Our Team</h2>
-          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
+          <h2>Members</h2>
+          <p>Our members provides insights into the diverse and talented individuals
+             who contribute their expertise and creativity to our Idea Lab community.</p>
         </div>
 
         <div class="row gy-5">
