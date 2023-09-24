@@ -15,10 +15,8 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-9 text-center">
-            <h2 data-aos="fade-down" class="welcome_text">Welcome to <span>Arajit Enterprise</span></h2>
-            <p data-aos="fade-up">
-              
-            </p>
+            <h2 data-aos="fade-down" class="welcome_text">Welcome to <span>JISCE Idea Lab</span></h2>
+            <h5 data-aos="fade-up">We Help to <span class="header_text_change"></span></h5>
             <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
           </div>
         </div>
@@ -903,10 +901,6 @@
           &copy; Copyright <strong><span>UpConstruction</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/ -->
           Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
         </div>
       </div>
@@ -919,18 +913,15 @@
 
   <div id="preloader"></div>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <?php require './components/scripts.php'?>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
+  <script>
+    new TypeIt(".header_text_change", {
+      speed: 75,
+      loop: true,
+    }).type("the mot versti", { delay: 100 })
+    .go();
+  </script>
 </body>
 
 </html>
