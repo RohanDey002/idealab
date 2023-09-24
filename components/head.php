@@ -7,7 +7,7 @@
 
   <meta content="" name="description">
   <meta content="" name="keywords">
-
+  <link rel="shortcut icon" href="./image/fav.png" type="image/x-icon">
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
