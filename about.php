@@ -155,7 +155,7 @@
       <div class="container aos-init aos-animate" data-aos="fade-up">
 
         <div class="row justify-content-around gy-4">
-          <div class="col-lg-6 img-bg aos-init aos-animate" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+          <div class="col-lg-6 img-bg aos-init aos-animate" style="background-image: url(./image/jis_img.webp);" data-aos="zoom-in" data-aos-delay="100"></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
             <h3>About JISCE</h3>
@@ -224,7 +224,7 @@
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
             <div class="member-img">
-              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="./image/members/neraj_saxena.webp" class="mem_img" alt="">
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -233,17 +233,14 @@
               </div>
             </div>
             <div class="member-info text-center">
-              <h4>Dr.Subrata Mukherjee</h4>
-              <span>Innovators</span>
-              <p>These are the individuals who come up with innovative ideas and concepts. They are the 
-                driving force behind the lab's projects and initiatives. They brainstorm, ideate, and develop 
-                new concepts.</p>
+              <h4>Dr Neraj Saxena <br> Adviser , AICTE </h4>
+           
             </div>
           </div><!-- End Team Member -->
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="200">
             <div class="member-img">
-              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+              <img src="./image/members/principal_jisce.webp" class="mem_img" alt="">
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -252,16 +249,14 @@
               </div>
             </div>
             <div class="member-info text-center">
-              <h4>Mrs.Priyanka Roy</h4>
-              <span>Mentors</span>
-              <p>Experienced individuals who provide guidance and mentorship to the lab members. They share 
-                their expertise, offer advice, and help navigate challenges.</p>
+              <h4>Prof (Dr Partha Sarkar <br> Principal Jisce)</h4>
+              
             </div>
           </div><!-- End Team Member -->
 
           <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
             <div class="member-img">
-              <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+              <img src="./image/members/sila_singh.webp" class="mem_img" alt="">
               <div class="social">
                 <a href="#"><i class="bi bi-twitter"></i></a>
                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -270,12 +265,51 @@
               </div>
             </div>
             <div class="member-info text-center">
-              <h4>Dr.Debashis Ghosh</h4>
-              <span>Researchers</span>
-              <p>Researchers gather data, conduct market research, and analyze information to support the development and 
-                implementation of projects. 
-                They provide valuable insights that inform decision-making</p>
+              <h4>Dr Sila Singh Ghosh  <br> Register,JISCE & VP JIS  <br> Group</h4>
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member-img">
+              <img src="./image/members/Simarpreet_Singh.webp" class="mem_img" alt="">
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
             </div>
+            <div class="member-info text-center">
+              <h4>Dr.Simarpreet Singh <br> Director ,JIS Group</h4>
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member-img">
+              <img src="./image/members/Taranjit_Singh.webp" class="mem_img" alt="">
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info text-center">
+              <h4>Mr.Taranjit Singh <br> Managing Director , JIS <br> Group</h4>
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member-img">
+              <img src="./image/members/Sardar_Jodh_Singh.webp" class="mem_img" alt="">
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info text-center">
+              <h4>Late Sardar Jodh Singh <br> Founder Jis Group
+                                         </h4>
+              </div>
           </div><!-- End Team Member -->
 
          
