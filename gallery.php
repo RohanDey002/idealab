@@ -45,6 +45,16 @@
       margin: 20px 0;
       border-radius: 15px;
     }
+    .swiper-pagination-bullet{
+      background-color: white;
+      box-shadow: 5px 5px 20px #3d3b3b;
+      opacity: .5;
+    }
+    .swiper-pagination-bullet-active{
+      opacity: 1 !important;
+    }
+
+    
 </style>
 </head>
 
@@ -55,7 +65,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./imgmus/10778.webp');">
+    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./imgmus/back222.webp');">
       <div class="container position-relative d-flex flex-column align-items-center aos-init aos-animate" data-aos="fade">
 
         <h2>Gallery</h2>
@@ -74,10 +84,10 @@
       <h5 class="p-3">[July | 2021] Inauguration </h5>
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img1.webp" alt="">
+        <img src="./image/gelley/ino_img2.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img2.webp" alt="">
+        <img src="./image/gelley/ino_img1.webp" alt="">
       </div>
       <div class="swiper-slide">
         <img src="./image/gelley/ino_img3.webp" alt="">

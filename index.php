@@ -58,7 +58,7 @@
             <div class="our-story">
              
               <h3>Discover Idea-Lab</h3>
-              <p>AICTE has announced to establish IDEA (Idea
+              <p class="text-justify">AICTE has announced to establish IDEA (Idea
                   Development, Evaluation &amp; Application) Lab in
                   AICTE approved institutions, encouraging students for
                   application of science, technology, engineering and
@@ -76,20 +76,22 @@
             </div>
           </div>
           <div class="col-lg-12 mx-auto">
-          <ul class="about_list">
+          <ul class="about_list mt-5">
                 <li><i class="bi bi-check-circle"></i> <span>
                   <h5>Mission of AICTE IDEA Lab at JISCE</h5>
-                  Our mission is to empower students with hands-on
+                  <p class ="text-center2">Our mission is to empower students with hands-on
                   experiences, promote collaborative project-based
                   learning, and enhance their readiness for the larger
                   society. Through outreach initiatives, vocational
                   training, and industry internships, we aim to create
                   a dynamic ecosystem that nurtures creativity,
                   innovation, and the development of real-world
-                  solutions.</span>
+                  solutions.
+                  </p></span>
                 </li>
                 <li><i class="bi bi-check-circle"></i> <span>
                   <h5>Vision of AICTE IDEA Lab at JISCE</h5>
+                  <p class ="text-center2">
                   Our Institute is having its inherent multidisciplinary
                   nature through its diverse streams and concurrent
                   laboratory facilities and we strongly believe inception of
@@ -103,10 +105,11 @@
                   infrastructure and emerging technologies. It will serve as
                   a platform for multidisciplinary projects, vocational
                   training, internships, and hands-on learning experiences
-                  forstudents and the larger community.</span>
+                  forstudents and the larger community.</p></span>
                 </li>
                 <li><i class="bi bi-check-circle"></i> <span>
                   <h5>Objective of AICTE IDEA Lab</h5>
+                  <p class ="text-center2">
                   As the IDEA Lab is going to be a long-term intervention
                   aiming to transform education imparted in the
                   institution, the proposal must spell out a clear vision for
@@ -119,7 +122,7 @@
                   the same, will impart an edge for any proposal.
                   Shortlisted proposals will be subjected to scrutiny by a
                   panel of experts before sanctioning of the project by
-                  AICTE.</span>
+                  AICTE.</p></span>
                 </li>
                 
               </ul>
@@ -256,7 +259,7 @@
     <!-- ======= mechanicals Section ======= -->
 
     <!-- ======= Get Started Section ======= -->
-    <section id="features" class="features section-bg">
+    <section id="working" class="features section-bg">
       <div class="container" data-aos="fade-up">
       <div class="section-header">
           <h2>We are working on</h2>
@@ -274,7 +277,7 @@
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
                     <h4 class="card-title">"Home Automation and IoT Integration"</h4>
-                    <p> Create a home automation system that allows users to control
+                    <p class ="para_text3"> Create a home automation system that allows users to control
                        and monitor various household devices using IoT technologies and a mobile app.</p>
                   </div>
                 </div>
@@ -291,7 +294,7 @@
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
                     <h4 class="card-title">"Sustainable Urban Planning"</h4>
-                    <p>Develop a sustainable urban development plan that focuses on optimizing land use, transportation 
+                    <p class ="para_text3">Develop a sustainable urban development plan that focuses on optimizing land use, transportation 
                       systems, green spaces, and energy-efficient buildings to create a more livable and eco-friendly city.</p>
                   </div>
                 </div>
@@ -308,7 +311,7 @@
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
                     <h4 class="card-title">"Radar-Based Object Detection and Tracking"</h4>
-                    <p>Build a radar system for detecting and tracking
+                    <p class ="para_text3">Build a radar system for detecting and tracking
                        moving objects, such as vehicles or drones, and use this technology for applications like traffic management or surveillance.</p>
                   </div>
                 </div>
@@ -325,7 +328,7 @@
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
                     <h4 class="card-title">"Solar-Powered Portable Water Purification System"</h4>
-                    <p>An innovative solution harnessing solar energy to purify water from any source, 
+                    <p class ="para_text3">An innovative solution harnessing solar energy to purify water from any source, 
                       ensuring access to safe and clean drinking water in remote or disaster-stricken areas</p>
                   </div>
                 </div>
@@ -345,7 +348,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>What our Students have done</h2>
-          <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto accusamus fugit aut qui distinctio</p>
+          <p>In our Idea Lab, students have achieved pioneering milestones, transforming ideas into tangible, impactful projects, reflecting our culture of innovation.</p>
         </div>
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
@@ -545,7 +548,7 @@
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
-                  <p>
+                  <p class = "fedback-center3">
                     <i class="bi bi-quote quote-icon-left"></i>
                     Project managers are responsible for planning, organizing, and overseeing the execution 
                     of projects. They ensure that projects stay on track, meet their objectives, and are 
@@ -565,7 +568,7 @@
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
-                  <p>
+                  <p class = "fedback-center3">
                     <i class="bi bi-quote quote-icon-left"></i>
                     Administrative staff members handle the day-to-day operations of the lab. They manage 
                     schedules, coordinate meetings, handle finances, and ensure that everything runs smoothly.
@@ -585,7 +588,7 @@
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
-                  <p>
+                  <p class = "fedback-center3">
                     <i class="bi bi-quote quote-icon-left"></i>
                     Members may collaborate with external partners, such as industry experts, businesses, or 
                     other organizations, to bring additional resources and expertise to their projects.
