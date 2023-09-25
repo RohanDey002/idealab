@@ -211,3 +211,8 @@
 #about{
     background-color: #ffffec;
 }
+#features{
+    background: url('./../../image/approch_bg.svg');
+    background-attachment: fixed;
+    background-size: cover;
+}
