@@ -55,7 +55,7 @@
                   </div>
                 </div>
                 <div class="col-md-4">
-                  <img src="./image/hackathon.jpg" alt="" class="img-fluid">
+                  <img src="./image/hackathon2.jpg" alt="" class="img-fluid">
                 </div>
               </div>
             </div>
