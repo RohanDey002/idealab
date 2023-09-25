@@ -81,42 +81,50 @@
 
     
     <section id="gallery">
+      
       <div class="container">
-    <div class="swiper mySwiper">
-      <h5 class="p-3">[July | 2021] Inauguration </h5>
-    <div class="swiper-wrapper">
-    <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img2.webp" alt="">
-      </div>
+        <div class="card p-4" >
+            <div class="btn-container">
+            <a class="btn btn-light border border-warning" href="#gal1">[July | 2021] Inauguration</a>
+            <a class="btn btn-light border border-warning" href="#gal2">[September | 2022] JIStech22k Inauguration</a>
+            <a class="btn btn-light border border-warning" href="#gal3">[September | 2022] JIStech22k Price Distribution</a>
+            </div>
+        </div>
+      <div class="swiper mySwiper">
+        <h5 id="gal1" class="p-3 gal">[July | 2021] Inauguration </h5>
+      <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img1.webp" alt="">
+          <img loading="lazy"  src ="./image/gelley/ino_img2.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img1.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img3.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img4.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img5.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img6.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img7.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img8.webp" alt="">
+        </div>
+        <div class="swiper-slide">
+          <img loading="lazy"  src ="./image/gelley/ino_img9.webp" alt="">
+        </div>
       </div>
-      <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img3.webp" alt="">
-      </div>
-      <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img4.webp" alt="">
-      </div>
-      <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img5.webp" alt="">
-      </div>
-      <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img6.webp" alt="">
-      </div>
-      <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img7.webp" alt="">
-      </div>
-      <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img8.webp" alt="">
-      </div>
-      <div class="swiper-slide">
-        <img loading="lazy"  src ="./image/gelley/ino_img9.webp" alt="">
-      </div>
+      <div class="swiper-pagination"></div>
     </div>
-    <div class="swiper-pagination"></div>
-  </div>
   <div class="swiper mySwiper2">
-  <h5 class="p-3">[September | 2022] JIStech22k Inauguration</h5>
+  <h5 id="gal2" class="p-3 gal">[September | 2022] JIStech22k Inauguration</h5>
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img1.webp" alt="">
@@ -170,7 +178,7 @@
     <div class="swiper-pagination"></div>
   </div>
   <div class="swiper mySwiper3">
-  <h5 class="p-3">[September | 2022] JIStech22k Price Distribution</h5>
+  <h5 id="gal3" class="p-3 gal">[September | 2022] JIStech22k Price Distribution</h5>
     <div class="swiper-wrapper">
     
       <div class="swiper-slide">
