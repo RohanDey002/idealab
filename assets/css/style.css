@@ -54,7 +54,15 @@
 }
 
 .card-body {
-    gap: 25px !important;
+    display: flex;
+    flex-direction: column;
+    gap: 15px !important;
+}
+.card-body .para_text3{
+    text-align: justify;
+}
+.card-body h4.card-title{
+    color: #38de05;
 }
 
 .position-relative .about-img {
@@ -216,4 +224,16 @@
     background: url('./../../image/approch_bg.svg');
     background-attachment: fixed;
     background-size: cover;
+}
+.our-story .text-justify{
+    text-align: justify;
+}
+span .text-center2{
+    text-align: justify !important;
+}
+.testimonial-item p.fedback-center3{
+    text-align: justify;
+}
+.justify-content-center .about-center4{
+    text-align: justify;
 }
