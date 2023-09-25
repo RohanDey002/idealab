@@ -208,3 +208,6 @@
     transform: scale(1.102555);
     transition: .45s;
 }
+#about{
+    background-color: #ffffec;
+}

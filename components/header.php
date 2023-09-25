@@ -12,8 +12,9 @@
         <ul>
           <li><a href="index.php" <?php if($page == 'home') echo 'class="active"'?>>Home</a></li>
           <li><a href="about.php" <?php if($page == 'about') echo 'class="active"'?>>About Us</a></li>
-          <li><a href="projects.php" <?php if($page == 'gallery') echo 'class="active"'?>>Project Gallery</a></li>
+          <li><a href="projects.php" <?php if($page == 'gallery') echo 'class="active"'?>>Projects</a></li>
           <li><a href="patientproject.php" <?php if($page == 'patient') echo 'class="active"'?>>Patient Projects</a></li>
+          <li><a href="./gallery.php" <?php if($page == 'photo') echo 'class="active"'?>>Photo Gallery</a></li>
           <li><a href="contact.php" <?php if($page == 'contact') echo 'class="active"'?>>Contact Us</a></li>
         </ul>
       </nav><!-- .navbar -->

@@ -1180,7 +1180,9 @@ section {
 
 .about .our-story {
   padding: 40px;
-  background-color: #f5f6f7;
+  background-color: #ffffff;
+  box-shadow: 5px 5px 20px -15px;
+  border: 1px solid #dbdbdb;
 }
 
 @media (min-width: 991px) {
@@ -1215,12 +1217,18 @@ section {
 .about ul li {
   padding: 5px 0;
   display: flex;
-  align-items: center;
+}
+.about_list{
+  background-color: white;
+  border: 2px solid #e98915;
+  padding: 50px !important;
+  box-shadow: 5px 5px 20px -15px;
+  border-radius: 10px;
 }
 
 .about ul i {
   font-size: 20px;
-  margin-right: 4px;
+  margin-right: 8px;
   color: var(--color-primary);
 }
 
