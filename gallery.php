@@ -37,7 +37,7 @@
 
     .swiper {
       width: 100%;
-      height: 400px;
+      height: 650px;
       margin: 20px 0;
       border-radius: 15px;
     }
@@ -69,15 +69,33 @@
     <div class="swiper mySwiper">
       <h5 class="p-3">[July | 2021] Inauguration </h5>
     <div class="swiper-wrapper">
-      <div class="swiper-slide">Slide 1</div>
-      <div class="swiper-slide">Slide 2</div>
-      <div class="swiper-slide">Slide 3</div>
-      <div class="swiper-slide">Slide 4</div>
-      <div class="swiper-slide">Slide 5</div>
-      <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img1.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img2.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img3.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img4.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img5.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img6.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img7.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img8.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/ino_img9.webp" alt="">
+      </div>
     </div>
     <div class="swiper-pagination"></div>
   </div>
