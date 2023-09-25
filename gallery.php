@@ -70,10 +70,10 @@
       <h5 class="p-3">[July | 2021] Inauguration </h5>
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img1.webp" alt="">
+        <img src="./image/gelley/ino_img2.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img2.webp" alt="">
+        <img src="./image/gelley/ino_img1.webp" alt="">
       </div>
       <div class="swiper-slide">
         <img src="./image/gelley/ino_img3.webp" alt="">
