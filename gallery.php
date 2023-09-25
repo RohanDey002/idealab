@@ -29,6 +29,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      height: calc((100% - 30px) / 2) !important;
     }
 
     .swiper-slide img {
@@ -44,6 +45,7 @@
       height: 650px;
       margin: 20px 0;
       border-radius: 15px;
+      background:white;
     }
     .swiper-pagination-bullet{
       background-color: white;
@@ -83,32 +85,32 @@
     <div class="swiper mySwiper">
       <h5 class="p-3">[July | 2021] Inauguration </h5>
     <div class="swiper-wrapper">
-      <div class="swiper-slide">
-        <img src="./image/gelley/ino_img2.webp" alt="">
+    <div class="swiper-slide">
+        <img loading="lazy"  src ="./image/gelley/ino_img2.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img1.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img1.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img3.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img3.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img4.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img4.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img5.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img5.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img6.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img6.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img7.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img7.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img8.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img8.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img9.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/ino_img9.webp" alt="">
       </div>
     </div>
     <div class="swiper-pagination"></div>
@@ -117,52 +119,52 @@
   <h5 class="p-3">[September | 2022] JIStech22k Inauguration</h5>
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img1.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img1.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img2.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img2.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img3.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img3.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img4.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img4.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img5.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img5.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img6.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img6.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img7.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img7.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img8.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img8.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img9.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img9.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img10.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img10.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img11.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img11.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img12.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img12.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img13.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img13.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img14.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img14.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img15.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img15.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jis_tech_ino/jistecch_img16.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/jis_tech_ino/jistecch_img16.webp" alt="">
       </div>
     </div>
     <div class="swiper-pagination"></div>
@@ -172,40 +174,40 @@
     <div class="swiper-wrapper">
     
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img1.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img1.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img2.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img2.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img3.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img3.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img4.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img4.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img5.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img5.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img6.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img6.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img7.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img7.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img8.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img8.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img9.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img9.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img10.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img10.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img11.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img11.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/price_jistech/price_img12.webp" alt="">
+        <img loading="lazy"  src ="./image/gelley/price_jistech/price_img12.webp" alt="">
       </div>
     </div>
     <div class="swiper-pagination"></div>
@@ -297,21 +299,33 @@
   <script src="assets/js/main.js"></script>
   <script>
     var swiper = new Swiper(".mySwiper", {
-      spaceBetween: 30,
+      slidesPerView: 2,
+      grid: {
+        rows: 2,
+      },
+      spaceBetween: 5,
       pagination: {
         el: ".swiper-pagination",
         clickable: true,
       },
     });
     var swiper2 = new Swiper(".mySwiper2", {
-      spaceBetween: 30,
+      slidesPerView: 2,
+      grid: {
+        rows: 2,
+      },
+      spaceBetween: 5,
       pagination: {
         el: ".swiper-pagination",
         clickable: true,
       },
     });
     var swiper3 = new Swiper(".mySwiper3", {
-      spaceBetween: 30,
+      slidesPerView: 2,
+      grid: {
+        rows: 2,
+      },
+      spaceBetween: 5,
       pagination: {
         el: ".swiper-pagination",
         clickable: true,
