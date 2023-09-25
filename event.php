@@ -16,7 +16,8 @@
         <h2>Events</h2>
         <ol>
           <li><a href="index.php">Home</a></li>
-          <li>Events</li>
+          <li><a href="index.php"">Upcoming Events</a></li>
+          <li><a href="index.php">Past Events</a></li>
         </ol>
 
       </div>
