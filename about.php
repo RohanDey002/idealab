@@ -34,19 +34,71 @@
             <div class="our-story">
              
               <h3>Discover Idea-Lab</h3>
-              <p>Our Idea Lab is a creative crucible, where imagination meets innovation. We foster a culture of ideas,transforming them into tangible solutions for a brighter tomorrow.</p>
-              <ul>
-                <li><i class="bi bi-check-circle"></i> <span>Our mission is to ignite creativity and innovation, providing students with a dynamic platform to turn their ideas into real-world projects.</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>We're more than just a lab; we're a thriving community of innovators, mentors, and dreamers, collaborating to make a difference.</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
-              </ul>
-              <p>Explore our portfolio of projects that have left a mark, driving positive change in various fields and industries</p>
+              <p>AICTE has announced to establish IDEA (Idea
+                  Development, Evaluation &amp; Application) Lab in
+                  AICTE approved institutions, encouraging students for
+                  application of science, technology, engineering and
+                  mathematics (STEM) fundamentals towards enhanced
+                  hands-on experience, learning by doing and even
+                  product visualization. As a common facility embedded
+                  in the institution, the IDEA Lab will make engineering
+                  graduates more imaginative and creative, besides
+                  getting basic training in the 21st century skills.</p>
 
               <div class="watch-video d-flex align-items-center position-relative">
                 <i class="bi bi-play-circle"></i>
                 <a href="https://www.youtube.com/watch?v=smNgzGUdg60" class="glightbox stretched-link">Watch Video</a>
               </div>
             </div>
+          </div>
+          <div class="col-lg-12 mx-auto">
+          <ul class="about_list">
+                <li><i class="bi bi-check-circle"></i> <span>
+                  <h5>Mission of AICTE IDEA Lab at JISCE</h5>
+                  Our mission is to empower students with hands-on
+                  experiences, promote collaborative project-based
+                  learning, and enhance their readiness for the larger
+                  society. Through outreach initiatives, vocational
+                  training, and industry internships, we aim to create
+                  a dynamic ecosystem that nurtures creativity,
+                  innovation, and the development of real-world
+                  solutions.</span>
+                </li>
+                <li><i class="bi bi-check-circle"></i> <span>
+                  <h5>Vision of AICTE IDEA Lab at JISCE</h5>
+                  Our Institute is having its inherent multidisciplinary
+                  nature through its diverse streams and concurrent
+                  laboratory facilities and we strongly believe inception of
+                  the IDEA Lab would be an added feather to this
+                  endeavour through its wide spread 24x7 facilities
+                  bridging the gap between conceptualization and product
+                  development in actual.The lab aligns with the principles
+                  of Industry 4.0 and NEP 2020, enabling experiential
+                  learning and integrating it into the curriculum. We plan
+                  to extend the lab's resources through on-premises
+                  infrastructure and emerging technologies. It will serve as
+                  a platform for multidisciplinary projects, vocational
+                  training, internships, and hands-on learning experiences
+                  forstudents and the larger community.</span>
+                </li>
+                <li><i class="bi bi-check-circle"></i> <span>
+                  <h5>Objective of AICTE IDEA Lab</h5>
+                  As the IDEA Lab is going to be a long-term intervention
+                  aiming to transform education imparted in the
+                  institution, the proposal must spell out a clear vision for
+                  the Lab, plan of implementation, mobilization of
+                  resources, strength and enthusiasm of faculty, utilization
+                  and expansion of facilities, etc. The alignment of
+                  activities with larger national goals/ missions/ initiatives
+                  or industrial requirements or serving disadvantaged
+                  sections of society etc. and commitment of resources for
+                  the same, will impart an edge for any proposal.
+                  Shortlisted proposals will be subjected to scrutiny by a
+                  panel of experts before sanctioning of the project by
+                  AICTE.</span>
+                </li>
+                
+              </ul>
           </div>
 
         </div>
@@ -99,7 +151,65 @@
     </section><!-- End Stats Counter Section -->
 
     <!-- ======= Alt Services Section ======= -->
-    
+    <section id="alt-services" class="alt-services">
+      <div class="container aos-init aos-animate" data-aos="fade-up">
+
+        <div class="row justify-content-around gy-4">
+          <div class="col-lg-6 img-bg aos-init aos-animate" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+
+          <div class="col-lg-5 d-flex flex-column justify-content-center">
+            <h3>About JISCE</h3>
+            <p>JIS College of Engineering (JISCE), Kolkata is recognised
+                as one of the best Engineering colleges and was
+                established in 2000. The college is a NAAC 'A' accredited
+                institute and is affiliated to MAKAUT, Kolkata. The
+                institute is ranked 12 amongst the top 50 engineering
+                institutes in India according to Times of India Survey
+                2020.
+                JISCE offers admission in various undergraduate,
+                postgraduate and Diploma courses in the field of
+                Engineering, Management and Hospitality such as BBA,
+                BCA, B.Tech, M.Tech, MBA and BSc. Candidates are
+                selected on the basis of previous academic record as well
+                asthrough entrance exam scores.</p>
+
+            <div class="icon-box d-flex position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+              <i class="bi bi-easel flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">Strong Faculty and Research Opportunities at JISCE</a></h4>
+                <p>JISCE boasts a renowned and experienced faculty, along with robust research opportunities, providing students with a solid foundation in engineering and opportunities for hands-on learning and innovation.</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+            <div class="icon-box d-flex position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+              <i class="bi bi-patch-check flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">Industry Connections and Career Services </a></h4>
+                <p>JISCE University has strong ties to industry partners, offering valuable internships, co-op programs, and job placement assistance, significantly enhancing students' career prospects.</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+            <div class="icon-box d-flex position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+              <i class="bi bi-brightness-high flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">State-of-the-Art Facilities </a></h4>
+                <p>JISCE University provides modern laboratories, research centers, and well-equipped classrooms, ensuring a comprehensive engineering education, allowing students to gain practical skills and conduct experiments effectively.</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+            <div class="icon-box d-flex position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+              <i class="bi bi-brightness-high flex-shrink-0"></i>
+              <div>
+                <h4><a href="" class="stretched-link">Diverse Course Offerings</a></h4>
+                <p>JISCE University offers a wide range of engineering disciplines and specialization options, enabling students to explore their interests and choose a path that aligns with their career goals.</p>
+              </div>
+            </div><!-- End Icon Box -->
+
+          </div>
+        </div>
+
+      </div>
+    </section>
     <!-- ======= Our Team Section ======= -->
     <section id="team" class="team">
       <div class="container" data-aos="fade-up">
@@ -176,7 +286,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Testimonials</h2>
+          <h2>Feedback</h2>
           <p>Discover what our community members
              and collaborators have to say about their transformative experiences and successes within our Idea Lab.</p>
         </div>
@@ -187,7 +297,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                  <img src="./image/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                   <h3>Kunal Dey</h3>
                   <h4>Project Managers</h4>
                   <div class="stars">
@@ -207,7 +317,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                  <img src="./image/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                   <h3>Mithali Saha</h3>
                   <h4>Administrative staff</h4>
                   <div class="stars">
@@ -227,7 +337,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                  <img src="./image/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                   <h3>Prakash Mitra</h3>
                   <h4>Collaborators and Partners</h4>
                   <div class="stars">

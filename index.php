@@ -58,19 +58,71 @@
             <div class="our-story">
              
               <h3>Discover Idea-Lab</h3>
-              <p>Our Idea Lab is a creative crucible, where imagination meets innovation. We foster a culture of ideas,transforming them into tangible solutions for a brighter tomorrow.</p>
-              <ul>
-                <li><i class="bi bi-check-circle"></i> <span>Our mission is to ignite creativity and innovation, providing students with a dynamic platform to turn their ideas into real-world projects.</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>We're more than just a lab; we're a thriving community of innovators, mentors, and dreamers, collaborating to make a difference.</span></li>
-                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
-              </ul>
-              <p>Explore our portfolio of projects that have left a mark, driving positive change in various fields and industries</p>
+              <p>AICTE has announced to establish IDEA (Idea
+                  Development, Evaluation &amp; Application) Lab in
+                  AICTE approved institutions, encouraging students for
+                  application of science, technology, engineering and
+                  mathematics (STEM) fundamentals towards enhanced
+                  hands-on experience, learning by doing and even
+                  product visualization. As a common facility embedded
+                  in the institution, the IDEA Lab will make engineering
+                  graduates more imaginative and creative, besides
+                  getting basic training in the 21st century skills.</p>
 
               <div class="watch-video d-flex align-items-center position-relative">
                 <i class="bi bi-play-circle"></i>
                 <a href="https://www.youtube.com/watch?v=smNgzGUdg60" class="glightbox stretched-link">Watch Video</a>
               </div>
             </div>
+          </div>
+          <div class="col-lg-12 mx-auto">
+          <ul class="about_list">
+                <li><i class="bi bi-check-circle"></i> <span>
+                  <h5>Mission of AICTE IDEA Lab at JISCE</h5>
+                  Our mission is to empower students with hands-on
+                  experiences, promote collaborative project-based
+                  learning, and enhance their readiness for the larger
+                  society. Through outreach initiatives, vocational
+                  training, and industry internships, we aim to create
+                  a dynamic ecosystem that nurtures creativity,
+                  innovation, and the development of real-world
+                  solutions.</span>
+                </li>
+                <li><i class="bi bi-check-circle"></i> <span>
+                  <h5>Vision of AICTE IDEA Lab at JISCE</h5>
+                  Our Institute is having its inherent multidisciplinary
+                  nature through its diverse streams and concurrent
+                  laboratory facilities and we strongly believe inception of
+                  the IDEA Lab would be an added feather to this
+                  endeavour through its wide spread 24x7 facilities
+                  bridging the gap between conceptualization and product
+                  development in actual.The lab aligns with the principles
+                  of Industry 4.0 and NEP 2020, enabling experiential
+                  learning and integrating it into the curriculum. We plan
+                  to extend the lab's resources through on-premises
+                  infrastructure and emerging technologies. It will serve as
+                  a platform for multidisciplinary projects, vocational
+                  training, internships, and hands-on learning experiences
+                  forstudents and the larger community.</span>
+                </li>
+                <li><i class="bi bi-check-circle"></i> <span>
+                  <h5>Objective of AICTE IDEA Lab</h5>
+                  As the IDEA Lab is going to be a long-term intervention
+                  aiming to transform education imparted in the
+                  institution, the proposal must spell out a clear vision for
+                  the Lab, plan of implementation, mobilization of
+                  resources, strength and enthusiasm of faculty, utilization
+                  and expansion of facilities, etc. The alignment of
+                  activities with larger national goals/ missions/ initiatives
+                  or industrial requirements or serving disadvantaged
+                  sections of society etc. and commitment of resources for
+                  the same, will impart an edge for any proposal.
+                  Shortlisted proposals will be subjected to scrutiny by a
+                  panel of experts before sanctioning of the project by
+                  AICTE.</span>
+                </li>
+                
+              </ul>
           </div>
 
         </div>
@@ -487,7 +539,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                  <img src="./image/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                   <h3>Kunal Dey</h3>
                   <h4>Project Managers</h4>
                   <div class="stars">
@@ -507,7 +559,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                  <img src="./image/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                   <h3>Mithali Saha</h3>
                   <h4>Administrative staff</h4>
                   <div class="stars">
@@ -527,7 +579,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                  <img src="./image/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                   <h3>Prakash Mitra</h3>
                   <h4>Collaborators and Partners</h4>
                   <div class="stars">
@@ -548,12 +600,9 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section --
+    </section><!-- End Testimonials Section -->
 
-   
-  </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
   <?php require './components/footer.php'?>
   <!-- End Footer -->
 
