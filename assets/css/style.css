@@ -249,3 +249,24 @@ span .text-center2{
     aspect-ratio: 1/1;
     object-fit: cover;
 }
+
+@media only screen and (max-width:650px) {
+    
+}
+.card-content{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.date-jis{
+color: #085568;
+font-family: Impact, Charcoal, sans-serif
+}
+.jistech{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
