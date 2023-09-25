@@ -34,7 +34,7 @@
             <div class="our-story">
              
               <h3>Discover Idea-Lab</h3>
-              <p>AICTE has announced to establish IDEA (Idea
+              <p class="text-justify">AICTE has announced to establish IDEA (Idea
                   Development, Evaluation &amp; Application) Lab in
                   AICTE approved institutions, encouraging students for
                   application of science, technology, engineering and
@@ -43,7 +43,7 @@
                   product visualization. As a common facility embedded
                   in the institution, the IDEA Lab will make engineering
                   graduates more imaginative and creative, besides
-                  getting basic training in the 21st century skills.</p>
+                  getting basic training in the 21st century skills.</class=>
 
               <div class="watch-video d-flex align-items-center position-relative">
                 <i class="bi bi-play-circle"></i>
@@ -55,6 +55,7 @@
           <ul class="about_list mt-5">
                 <li><i class="bi bi-check-circle"></i> <span>
                   <h5>Mission of AICTE IDEA Lab at JISCE</h5>
+                  <p class ="text-center2">
                   Our mission is to empower students with hands-on
                   experiences, promote collaborative project-based
                   learning, and enhance their readiness for the larger
@@ -62,10 +63,11 @@
                   training, and industry internships, we aim to create
                   a dynamic ecosystem that nurtures creativity,
                   innovation, and the development of real-world
-                  solutions.</span>
+                  solutions.</p></span>
                 </li>
                 <li><i class="bi bi-check-circle"></i> <span>
                   <h5>Vision of AICTE IDEA Lab at JISCE</h5>
+                  <p class ="text-center2">
                   Our Institute is having its inherent multidisciplinary
                   nature through its diverse streams and concurrent
                   laboratory facilities and we strongly believe inception of
@@ -79,10 +81,11 @@
                   infrastructure and emerging technologies. It will serve as
                   a platform for multidisciplinary projects, vocational
                   training, internships, and hands-on learning experiences
-                  forstudents and the larger community.</span>
+                  forstudents and the larger community.</p></span>
                 </li>
                 <li><i class="bi bi-check-circle"></i> <span>
                   <h5>Objective of AICTE IDEA Lab</h5>
+                  <p class ="text-center2">
                   As the IDEA Lab is going to be a long-term intervention
                   aiming to transform education imparted in the
                   institution, the proposal must spell out a clear vision for
@@ -95,7 +98,7 @@
                   the same, will impart an edge for any proposal.
                   Shortlisted proposals will be subjected to scrutiny by a
                   panel of experts before sanctioning of the project by
-                  AICTE.</span>
+                  AICTE.</p></span>
                 </li>
                 
               </ul>
@@ -160,7 +163,7 @@
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
             <h3>About JISCE</h3>
-            <p>JIS College of Engineering (JISCE), Kolkata is recognised
+            <p class ="about-center4">JIS College of Engineering (JISCE), Kolkata is recognised
                 as one of the best Engineering colleges and was
                 established in 2000. The college is a NAAC 'A' accredited
                 institute and is affiliated to MAKAUT, Kolkata. The
@@ -178,7 +181,7 @@
               <i class="bi bi-easel flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Strong Faculty and Research Opportunities at JISCE</a></h4>
-                <p>JISCE boasts a renowned and experienced faculty, along with robust research opportunities, providing students with a solid foundation in engineering and opportunities for hands-on learning and innovation.</p>
+                <p class ="about-center4">JISCE boasts a renowned and experienced faculty, along with robust research opportunities, providing students with a solid foundation in engineering and opportunities for hands-on learning and innovation.</p>
               </div>
             </div><!-- End Icon Box -->
 
@@ -186,7 +189,7 @@
               <i class="bi bi-patch-check flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Industry Connections and Career Services </a></h4>
-                <p>JISCE University has strong ties to industry partners, offering valuable internships, co-op programs, and job placement assistance, significantly enhancing students' career prospects.</p>
+                <p class ="about-center4">JISCE University has strong ties to industry partners, offering valuable internships, co-op programs, and job placement assistance, significantly enhancing students' career prospects.</p>
               </div>
             </div><!-- End Icon Box -->
 
@@ -194,7 +197,7 @@
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">State-of-the-Art Facilities </a></h4>
-                <p>JISCE University provides modern laboratories, research centers, and well-equipped classrooms, ensuring a comprehensive engineering education, allowing students to gain practical skills and conduct experiments effectively.</p>
+                <p class ="about-center4">JISCE University provides modern laboratories, research centers, and well-equipped classrooms, ensuring a comprehensive engineering education, allowing students to gain practical skills and conduct experiments effectively.</p>
               </div>
             </div><!-- End Icon Box -->
 
@@ -202,7 +205,7 @@
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
                 <h4><a href="" class="stretched-link">Diverse Course Offerings</a></h4>
-                <p>JISCE University offers a wide range of engineering disciplines and specialization options, enabling students to explore their interests and choose a path that aligns with their career goals.</p>
+                <p class ="about-center4">JISCE University offers a wide range of engineering disciplines and specialization options, enabling students to explore their interests and choose a path that aligns with their career goals.</p>
               </div>
             </div><!-- End Icon Box -->
 
@@ -304,7 +307,7 @@
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
-                  <p>
+                  <p class = "fedback-center3">
                     <i class="bi bi-quote quote-icon-left"></i>
                     Project managers are responsible for planning, organizing, and overseeing the execution 
                     of projects. They ensure that projects stay on track, meet their objectives, and are 
@@ -324,7 +327,7 @@
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
-                  <p>
+                  <p class = "fedback-center3">
                     <i class="bi bi-quote quote-icon-left"></i>
                     Administrative staff members handle the day-to-day operations of the lab. They manage 
                     schedules, coordinate meetings, handle finances, and ensure that everything runs smoothly.
@@ -344,7 +347,7 @@
                   <div class="stars">
                     <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
-                  <p>
+                  <p class = "fedback-center3">
                     <i class="bi bi-quote quote-icon-left"></i>
                     Members may collaborate with external partners, such as industry experts, businesses, or 
                     other organizations, to bring additional resources and expertise to their projects.
