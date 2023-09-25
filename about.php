@@ -105,6 +105,7 @@
 
       </div>
     </section>
+    
     <!-- End About Section -->
 
     <!-- ======= Stats Counter Section ======= -->
