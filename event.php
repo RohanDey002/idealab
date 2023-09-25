@@ -32,7 +32,7 @@
                   <img src="./image/jistech23.jpg" alt="" class="img-fluid">
                 </div>
                 <div class="col-md-8">
-                  <div class="card-content p-5" >
+                  <div class="card-content p-lg-5 p-md-4 p-2" >
                   <h2 class="jistech">JISTech2k23</h2>
                   <p>Join us for a tech-filled journey, where ideas converge, innovation thrives, and the future unfolds.A dynamic tech symposium showcasing cutting-edge projects, insights, 
                     and a platform for tech enthusiasts to connect and inspire.</p>
@@ -46,7 +46,7 @@
             <div class="card">
               <div class="row">
                 <div class="col-md-8">
-                  <div class="card-content p-5" >
+                  <div class="card-content p-lg-5 p-md-4 p-2" >
                   <h2 class="jistech">Coding Catalyst: College Hackathon Challenge</h2>
                   <p>"Coding Catalyst: College Hackathon Challenge" is where innovation sparks, and solutions take shape through
                      a whirlwind of coding brilliance.Join us for a coding marathon where minds collide, problems are solved, and 

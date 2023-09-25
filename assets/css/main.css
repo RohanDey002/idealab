@@ -1915,7 +1915,7 @@ section {
     padding: 0 15px;
   }
   #hero {
-    height: 30vh;
+    height: 75vh;
   }
 
   #about {
@@ -1970,6 +1970,14 @@ section {
   }
   #hero .position-relative h2{
     font-size: 40px !important;
+  }
+  #main #hero{
+    height: 30vh !important;
+  }
+  .btn-container{
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
   }
 }
 
