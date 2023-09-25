@@ -45,6 +45,16 @@
       margin: 20px 0;
       border-radius: 15px;
     }
+    .swiper-pagination-bullet{
+      background-color: white;
+      box-shadow: 5px 5px 20px #3d3b3b;
+      opacity: .5;
+    }
+    .swiper-pagination-bullet-active{
+      opacity: 1 !important;
+    }
+
+    
 </style>
 </head>
 
@@ -55,7 +65,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./imgmus/10778.webp');">
+    <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./imgmus/back222.webp');">
       <div class="container position-relative d-flex flex-column align-items-center aos-init aos-animate" data-aos="fade">
 
         <h2>Gallery</h2>
@@ -74,10 +84,10 @@
       <h5 class="p-3">[July | 2021] Inauguration </h5>
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img1.webp" alt="">
+        <img src="./image/gelley/ino_img2.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/ino_img2.webp" alt="">
+        <img src="./image/gelley/ino_img1.webp" alt="">
       </div>
       <div class="swiper-slide">
         <img src="./image/gelley/ino_img3.webp" alt="">
@@ -160,29 +170,42 @@
   <div class="swiper mySwiper3">
   <h5 class="p-3">[September | 2022] JIStech22k Price Distribution</h5>
     <div class="swiper-wrapper">
+    
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd1.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img1.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd2.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img2.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd3.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img3.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd4.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img4.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd5.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img5.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd6.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img6.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd7.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img7.webp" alt="">
       </div>
       <div class="swiper-slide">
-        <img src="./image/gelley/jistech_pd/jistech_pd8.webp" alt="">
+        <img src="./image/gelley/price_jistech/price_img8.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img9.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img10.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img11.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img12.webp" alt="">
       </div>
     </div>
     <div class="swiper-pagination"></div>
