@@ -160,15 +160,30 @@
   <div class="swiper mySwiper3">
   <h5 class="p-3">[September | 2022] JIStech22k Price Distribution</h5>
     <div class="swiper-wrapper">
-      <div class="swiper-slide">Slide 1</div>
-      <div class="swiper-slide">Slide 2</div>
-      <div class="swiper-slide">Slide 3</div>
-      <div class="swiper-slide">Slide 4</div>
-      <div class="swiper-slide">Slide 5</div>
-      <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd1.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd2.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd3.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd4.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd5.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd6.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd7.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jistech_pd/jistech_pd8.webp" alt="">
+      </div>
     </div>
     <div class="swiper-pagination"></div>
   </div>
