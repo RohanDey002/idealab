@@ -225,6 +225,7 @@
     background-attachment: fixed;
     background-size: cover;
 }
+<<<<<<< HEAD
 .our-story .text-justify{
     text-align: justify;
 }
@@ -237,3 +238,10 @@ span .text-center2{
 .justify-content-center .about-center4{
     text-align: justify;
 }
+=======
+#testimonials{
+    background: url(./../../image/imgbg.webp);
+    background-attachment: fixed;
+    background-size: cover;
+}
+>>>>>>> 5d7dc2f739fb5874209ad969f9998097a9a2bd89

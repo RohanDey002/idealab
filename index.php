@@ -348,7 +348,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>What our Students have done</h2>
-          <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto accusamus fugit aut qui distinctio</p>
+          <p>In our Idea Lab, students have achieved pioneering milestones, transforming ideas into tangible, impactful projects, reflecting our culture of innovation.</p>
         </div>
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
           <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
