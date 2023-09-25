@@ -76,7 +76,7 @@
             </div>
           </div>
           <div class="col-lg-12 mx-auto">
-          <ul class="about_list">
+          <ul class="about_list mt-5">
                 <li><i class="bi bi-check-circle"></i> <span>
                   <h5>Mission of AICTE IDEA Lab at JISCE</h5>
                   Our mission is to empower students with hands-on
@@ -256,7 +256,7 @@
     <!-- ======= mechanicals Section ======= -->
 
     <!-- ======= Get Started Section ======= -->
-    <section id="features" class="features section-bg">
+    <section id="working" class="features section-bg">
       <div class="container" data-aos="fade-up">
       <div class="section-header">
           <h2>We are working on</h2>
