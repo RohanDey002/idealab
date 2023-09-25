@@ -2,6 +2,10 @@
   <title>Gallery </title>
   
 <style>
+  .swiper-pagination-bullet{
+    width:25px !important;
+    height:25px !important;
+  }
   .swiper {
       width: 100%;
       height: 100%;
