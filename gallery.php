@@ -102,15 +102,54 @@
   <div class="swiper mySwiper2">
   <h5 class="p-3">[September | 2022] JIStech22k Inauguration</h5>
     <div class="swiper-wrapper">
-      <div class="swiper-slide">Slide 1</div>
-      <div class="swiper-slide">Slide 2</div>
-      <div class="swiper-slide">Slide 3</div>
-      <div class="swiper-slide">Slide 4</div>
-      <div class="swiper-slide">Slide 5</div>
-      <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img1.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img2.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img3.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img4.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img5.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img6.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img7.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img8.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img9.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img10.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img11.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img12.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img13.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img14.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img15.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/jis_tech_ino/jistecch_img16.webp" alt="">
+      </div>
     </div>
     <div class="swiper-pagination"></div>
   </div>
