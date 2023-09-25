@@ -160,15 +160,43 @@
   <div class="swiper mySwiper3">
   <h5 class="p-3">[September | 2022] JIStech22k Price Distribution</h5>
     <div class="swiper-wrapper">
-      <div class="swiper-slide">Slide 1</div>
-      <div class="swiper-slide">Slide 2</div>
-      <div class="swiper-slide">Slide 3</div>
-      <div class="swiper-slide">Slide 4</div>
-      <div class="swiper-slide">Slide 5</div>
-      <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
+    
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img1.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img2.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img3.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img4.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img5.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img6.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img7.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img8.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img9.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img10.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img11.webp" alt="">
+      </div>
+      <div class="swiper-slide">
+        <img src="./image/gelley/price_jistech/price_img12.webp" alt="">
+      </div>
     </div>
     <div class="swiper-pagination"></div>
   </div>
