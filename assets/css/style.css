@@ -216,3 +216,8 @@
     background-attachment: fixed;
     background-size: cover;
 }
+#testimonials{
+    background: url(./../../image/imgbg.webp);
+    background-attachment: fixed;
+    background-size: cover;
+}
