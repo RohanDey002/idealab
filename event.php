@@ -22,6 +22,50 @@
 
       </div>
     </div><!-- End Breadcrumbs -->
+    <section id="events" >
+      <div class="container" >
+        <div class="row gap-3">
+          <div class="col-md-12">
+            <div class="card">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="./image/jistech23.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="col-md-8">
+                  <div class="card-content p-5" >
+                  <h2 class="jistech">JISTech2k23</h2>
+                  <p>Join us for a tech-filled journey, where ideas converge, innovation thrives, and the future unfolds.A dynamic tech symposium showcasing cutting-edge projects, insights, 
+                    and a platform for tech enthusiasts to connect and inspire.</p>
+                  <h5 class="date-jis">20th Sep 2023</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="card">
+              <div class="row">
+                <div class="col-md-8">
+                  <div class="card-content p-5" >
+                  <h2 class="jistech">Coding Catalyst: College Hackathon Challenge</h2>
+                  <p>"Coding Catalyst: College Hackathon Challenge" is where innovation sparks, and solutions take shape through
+                     a whirlwind of coding brilliance.Join us for a coding marathon where minds collide, problems are solved, and 
+                     future tech leaders emerge.</p>
+                  <h5 class="date-jis">3rd Oct 2023</h5>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <img src="./image/hackathon2.jpg" alt="" class="img-fluid">
+                </div>
+              </div>
+            </div>
+          </div>
+         
+        </div>
+
+
+      </div>
+   </section>
 
     
   </main><!-- End #main -->
