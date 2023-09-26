@@ -30,7 +30,7 @@
               <li><a href="#">Home</a></li>
               <li><a href="#">About us</a></li>
               <li><a href="#">Project Gallery</a></li>
-              <li><a href="#">Patient Projects</a></li>
+              <li><a href="#">Patent Projects</a></li>
               <li><a href="#">Contact Us</a></li>
             </ul>
           </div><!-- End footer links column-->
