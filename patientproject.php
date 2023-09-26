@@ -109,67 +109,8 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
-
-    <div class="footer-content position-relative">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="footer-info">
-              <h3>JISCE IDEA-Lab</h3>
-              <p>
-              Block A, Phase III,
-                Kalyani, Nadia - 741235 West Bengal<br>
-                <strong>Phone:</strong> 033 2582 2138<br>
-                <strong>Admission:</strong>033 2580 8640 / 033 2580 8560 / 9432011490 / 8697743363<br>
-                <strong>Email:</strong>info.jiscollege@jisgroup.org<br>
-                <strong>Website:</strong> www.jiscollege.ac.in<br>
-              </p>
-              <div class="social-links d-flex mt-3">
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a>
-              </div>
-            </div>
-          </div><!-- End footer info column-->
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Project Gallery</a></li>
-              <li><a href="#">Patient Projects</a></li>
-              <li><a href="#">Contact Us</a></li>
-            </ul>
-          </div><!-- End footer links column-->
-
-       
-          <div class="col-lg-2 col-md-3 footer-links">
-           
-          </div><!-- End footer links column-->
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            
-          </div><!-- End footer links column-->
-
-        </div>
-      </div>
-    </div>
-
-    <div class="footer-legal text-center position-relative">
-      <div class="container">
-        <div class="copyright">
-          © Copyright <strong><span>JISCE IDEA-LAb</span></strong>. All Rights Reserved
-        </div>
-       
-      </div>
-    </div>
-
-  </footer>  <!-- End Footer -->
-
+ 
+  <?php require './components/footer.php'?>
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   
@@ -177,16 +118,6 @@
   <!-- Vendor JS Files -->
   
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-
-  <script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <?php require './components/scripts.php'?>
 
 </body></html>
