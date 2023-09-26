@@ -1,5 +1,5 @@
 <?php $page='patient'; require './components/head.php' ?>
-  <title>PATIENT PROJECTS</title>
+  <title>PATENT PROJECTS</title>
   
 <style></style></head>
 
@@ -13,10 +13,10 @@
     <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./imgmus/10778.webp');">
       <div class="container position-relative d-flex flex-column align-items-center aos-init aos-animate" data-aos="fade">
 
-        <h2>Patient Projects</h2>
+        <h2>Patent Projects</h2>
         <ol>
           <li><a href="index.php">Home</a></li>
-          <li>Patient Projects</li>
+          <li>Patent Projects</li>
         </ol>
 
       </div>
@@ -26,7 +26,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Patient projects</h2>
+          <h2>Patent projects</h2>
           <p>Discover the nurturing environment at our Idea Lab, where
              we provide the patience and support required for projects to flourish and evolve into impactful innovations</p>
         </div>

@@ -1,6 +1,6 @@
 <?php $page='patient'; require './components/head.php' ?>
   
-  <title>Patient Projects</title>
+  <title>Patent Projects</title>
   
 </head>
 
@@ -15,10 +15,10 @@
     <div id="hero" class="breadcrumbs d-flex align-items-center" style="background-image: url('./image/patent_background.webp'); background-size:fill;">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-        <h2>Patient Projects</h2>
+        <h2>Patent Projects</h2>
         <ol>
           <li><a href="index.php">Home</a></li>
-          <li>Patient Projects</li>
+          <li>Patent Projects</li>
         </ol>
 
       </div>

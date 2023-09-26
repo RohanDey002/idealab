@@ -449,7 +449,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Patient projects</h2>
+          <h2>Patent projects</h2>
           <p>Discover the nurturing environment at our Idea Lab, where
              we provide the patience and support required for projects to flourish and evolve into impactful innovations</p>
         </div>
