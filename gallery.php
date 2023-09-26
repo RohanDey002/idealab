@@ -83,7 +83,7 @@
     <section id="gallery">
       
       <div class="container">
-        <div class="card p-4" >
+        <div class="card p-4" id="event_nav">
             <div class="btn-container">
             <a class="btn btn-light border border-warning" href="#gal1">[July | 2021] Inauguration</a>
             <a class="btn btn-light border border-warning" href="#gal2">[September | 2022] JIStech22k Inauguration</a>

@@ -3,7 +3,8 @@
 
       <a href="index.html" class="logo d-flex align-items-end">
         <img src="./image/logo.webp" alt="">
-        <h2 class="m-0">IDEALab</h2>
+        <img src="./image/logo-text.png" alt="">
+        
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
