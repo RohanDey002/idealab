@@ -20,7 +20,7 @@
                 <span id="welcome-msg3"> Lab</span>
               </h2>
             <h5 data-aos="fade-up" class="text-change">We Help to <span class="header_text_change"></span></h5>
-            <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
+            <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started">Get Started</a>
           </div>
         </div>
       </div>
