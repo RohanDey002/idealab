@@ -1,4 +1,29 @@
-<?php $page='photo'; require './components/head.php' ?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  <link rel="shortcut icon" href="./image/fav.png" type="image/x-icon">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!--  Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
   <title>Gallery </title>
   
 <style>
@@ -63,7 +88,30 @@
 <body data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0">
 
   <!-- ======= Header ======= -->
-  <?php require './components/header.php'?>
+  <header id="header" class="header d-flex align-items-center">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-end">
+        <img src="./image/logo.webp" alt="">
+        <h2 class="m-0">IDEALab</h2>
+      </a>
+
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.php" <?php if($page == 'home') echo 'class="active"'?>>Home</a></li>
+          <li><a href="about.php" <?php if($page == 'about') echo 'class="active"'?>>About Us</a></li>
+          <li><a href="projects.php" <?php if($page == 'gallery') echo 'class="active"'?>>Projects</a></li>
+          <li><a href="patientproject.php" <?php if($page == 'patient') echo 'class="active"'?>>Patient Projects</a></li>
+          <li><a href="./gallery.php" <?php if($page == 'photo') echo 'class="active"'?>>Photo Gallery</a></li>
+          <li><a href="event.php" <?php if($page == 'event') echo 'class="active"'?>>Events</a></li>
+          <li><a href="contact.php" <?php if($page == 'contact') echo 'class="active"'?>>Contact Us</a></li>
+        </ul>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header>
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
